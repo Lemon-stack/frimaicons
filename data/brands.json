@@ -1,0 +1,228 @@
+[
+  {
+    "slug": "airtel",
+    "title": "Airtel",
+    "hex": "E40000",
+    "source": "https://www.airtel.in/logo-tune",
+    "country": "IN",
+    "sector": "telecom",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "alipay",
+    "title": "Alipay",
+    "hex": "1677FF",
+    "source": "https://global.alipay.com/docs/ac/website_hk/design",
+    "guidelines": "https://global.alipay.com/docs/ac/website_hk/design",
+    "country": "CN",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "andela",
+    "title": "Andela",
+    "hex": "173B3F",
+    "source": "https://andela.com",
+    "country": "NG",
+    "sector": "talent",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "fawry",
+    "title": "Fawry",
+    "hex": "FFD300",
+    "source": "https://www.fawry.com/financials-and-earning-releases",
+    "country": "EG",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "gojek",
+    "title": "Gojek",
+    "hex": "00AA13",
+    "source": "https://gojek.com",
+    "guidelines": "https://gojek.design",
+    "country": "ID",
+    "sector": "mobility",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "grab",
+    "title": "Grab",
+    "hex": "00B14F",
+    "source": "https://en.wikipedia.org/wiki/File:Grab_(application)_logo.svg",
+    "country": "SG",
+    "sector": "mobility",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "klarna",
+    "title": "Klarna",
+    "hex": "FFB3C7",
+    "source": "https://klarna.design",
+    "country": "SE",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "mastercard",
+    "title": "MasterCard",
+    "hex": "EB001B",
+    "source": "https://www.mastercard.com/brandcenter/us/en/download-artwork.html",
+    "guidelines": "https://www.mastercard.com/brandcenter/us/en/brand-requirements/mastercard.html",
+    "country": "US",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "mercadopago",
+    "title": "Mercado Pago",
+    "hex": "00B1EA",
+    "source": "https://www.mercadopago.com",
+    "country": "AR",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "nubank",
+    "title": "Nubank",
+    "hex": "820AD1",
+    "source": "https://nubank.com.br/en/press/",
+    "country": "BR",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "orange",
+    "title": "Orange",
+    "hex": "FF7900",
+    "source": "https://brand.orange.com",
+    "guidelines": "https://system.design.orange.com/0c1af118d/p/494474-guidelines",
+    "country": "FR",
+    "sector": "telecom",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "paypal",
+    "title": "PayPal",
+    "hex": "002991",
+    "source": "https://www.paypal.com/us",
+    "guidelines": "https://newsroom.paypal-corp.com/media-resources",
+    "country": "US",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "paytm",
+    "title": "Paytm",
+    "hex": "20336B",
+    "source": "https://paytm.com",
+    "country": "IN",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "phonepe",
+    "title": "PhonePe",
+    "hex": "5F259F",
+    "source": "https://www.phonepe.com/press/",
+    "country": "IN",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "pix",
+    "title": "Pix",
+    "hex": "77B6A8",
+    "source": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+    "guidelines": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento_Pix/I_manual_uso_marca_pix.pdf",
+    "country": "BR",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "razorpay",
+    "title": "Razorpay",
+    "hex": "0C2451",
+    "source": "https://razorpay.com/newsroom/brand-assets/",
+    "guidelines": "https://razorpay.com/newsroom/brand-assets/",
+    "country": "IN",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "revolut",
+    "title": "Revolut",
+    "hex": "191C1F",
+    "source": "https://developer.revolut.com/docs/resources/marketing-assets-guidelines/marketing-guidelines",
+    "country": "GB",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "stripe",
+    "title": "Stripe",
+    "hex": "635BFF",
+    "source": "https://stripe.com/newsroom/information",
+    "country": "US",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "uber",
+    "title": "Uber",
+    "hex": "000000",
+    "source": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
+    "guidelines": "https://assets.uber.com/d/k4nuxdZ8MC7E/user-guide#/user-guide/terms-of-use",
+    "country": "US",
+    "sector": "mobility",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "visa",
+    "title": "Visa",
+    "hex": "1A1F71",
+    "source": "https://merchantsignageeu.visa.com/product.asp?dptID=696",
+    "country": "US",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "vodafone",
+    "title": "Vodafone",
+    "hex": "E60000",
+    "source": "https://web.vodafone.com.eg",
+    "country": "GB",
+    "sector": "telecom",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "wechat",
+    "title": "WeChat",
+    "hex": "07C160",
+    "source": "https://wechat.design/tool/brand",
+    "guidelines": "https://wechat.design/brand/main-brand",
+    "country": "CN",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "wise",
+    "title": "Wise",
+    "hex": "9FE870",
+    "source": "https://wise.design/foundations/logo",
+    "guidelines": "https://wise.design/foundations/logo",
+    "country": "GB",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "xendit",
+    "title": "Xendit",
+    "hex": "4573FF",
+    "source": "https://www.xendit.co/en/company/asset-and-branding",
+    "country": "ID",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  }
+]

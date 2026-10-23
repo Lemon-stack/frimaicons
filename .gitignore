@@ -1,0 +1,12 @@
+node_modules
+dist
+out
+.next
+.turbo
+.wrangler
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env*
+packages/*/src/generated
+apps/site/public/icons

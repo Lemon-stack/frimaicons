@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site-static",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--filter", "site", "exec", "wrangler", "dev", "--port", "8787"],
+      "port": 8787
+    }
+  ]
+}

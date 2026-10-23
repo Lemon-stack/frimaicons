@@ -1,0 +1,19 @@
+{
+  "name": "frimaicons-monorepo",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "test": "node scripts/validate-icons.mjs && turbo test",
+    "typecheck": "turbo typecheck",
+    "validate": "node scripts/validate-icons.mjs",
+    "import:simple-icons": "node scripts/import-simple-icons.mjs"
+  },
+  "packageManager": "pnpm@10.33.4",
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "simple-icons": "^16.35.0",
+    "turbo": "^2.11.10"
+  }
+}
