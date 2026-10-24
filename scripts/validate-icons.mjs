@@ -10,8 +10,8 @@ function checkBrand(brand, seen) {
   if (!brand.title) errors.push("missing title");
   if (!/^[0-9A-F]{6}$/.test(brand.hex ?? "")) errors.push("hex must be 6 uppercase hex digits");
   if (!/^https:\/\//.test(brand.source ?? "")) errors.push("source must be an https URL");
-  if (!/^[A-Z]{2}$/.test(brand.country ?? "")) errors.push("country must be an ISO 3166 alpha-2 code");
   if (!SECTORS.includes(brand.sector)) errors.push(`sector must be one of ${SECTORS.join(", ")}`);
+  if (brand.featured !== undefined && typeof brand.featured !== "boolean") errors.push("featured must be true or false");
   return errors;
 }
 

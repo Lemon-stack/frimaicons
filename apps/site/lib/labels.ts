@@ -1,14 +1,13 @@
-import type { Sector } from "frimaicons";
-
-const regionNames = new Intl.DisplayNames(["en"], { type: "region" });
-
-export function getCountryName(code: string) {
-  return regionNames.of(code) ?? code;
-}
-
-export function getCountryFlag(code: string) {
-  return String.fromCodePoint(...[...code.toUpperCase()].map((c) => 0x1f1a5 + c.charCodeAt(0)));
-}
+import {
+  BubbleChatIcon,
+  Car01Icon,
+  CreditCardIcon,
+  GridIcon,
+  ShoppingBag01Icon,
+  SmartPhone01Icon,
+  UserGroupIcon,
+} from "@hugeicons/core-free-icons";
+import type { Sector } from "@frimaicons/core";
 
 export const SECTOR_LABELS: Record<Sector, string> = {
   fintech: "Fintech",
@@ -19,3 +18,13 @@ export const SECTOR_LABELS: Record<Sector, string> = {
   social: "Social",
   other: "Other",
 };
+
+export const SECTOR_ICONS = {
+  fintech: CreditCardIcon,
+  telecom: SmartPhone01Icon,
+  mobility: Car01Icon,
+  commerce: ShoppingBag01Icon,
+  talent: UserGroupIcon,
+  social: BubbleChatIcon,
+  other: GridIcon,
+} satisfies Record<Sector, unknown>;

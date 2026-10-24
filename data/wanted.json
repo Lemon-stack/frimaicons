@@ -1,18 +1,9 @@
 [
-  { "title": "Paystack", "country": "NG", "sector": "fintech" },
-  { "title": "Flutterwave", "country": "NG", "sector": "fintech" },
-  { "title": "OPay", "country": "NG", "sector": "fintech" },
-  { "title": "Moniepoint", "country": "NG", "sector": "fintech" },
-  { "title": "Kuda", "country": "NG", "sector": "fintech" },
-  { "title": "PiggyVest", "country": "NG", "sector": "fintech" },
-  { "title": "Cowrywise", "country": "NG", "sector": "fintech" },
-  { "title": "Interswitch", "country": "NG", "sector": "fintech" },
-  { "title": "PalmPay", "country": "NG", "sector": "fintech" },
-  { "title": "Jumia", "country": "NG", "sector": "commerce" },
-  { "title": "Chipper Cash", "country": "US", "sector": "fintech" },
-  { "title": "M-Pesa", "country": "KE", "sector": "fintech" },
-  { "title": "Yoco", "country": "ZA", "sector": "fintech" },
-  { "title": "Wave", "country": "SN", "sector": "fintech" },
-  { "title": "GCash", "country": "PH", "sector": "fintech" },
-  { "title": "Maya", "country": "PH", "sector": "fintech" }
+  { "title": "10mg Health", "sector": "other" },
+  { "title": "Fincra", "sector": "fintech" },
+  { "title": "Maya", "sector": "fintech" },
+  { "title": "OmniRetail", "sector": "commerce" },
+  { "title": "Redtech", "sector": "fintech" },
+  { "title": "Sycamore", "sector": "fintech" },
+  { "title": "Wave", "sector": "fintech" }
 ]

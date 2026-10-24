@@ -14,7 +14,7 @@ export interface FrimaIcon {
   source: string;
   guidelines?: string;
   license?: { type: string; url?: string };
-  /** ISO 3166-1 alpha-2 code of the company's HQ. */
-  country: string;
   sector: Sector;
+  /** Listed ahead of other icons, e.g. the Nigerian startups the library launched with. */
+  featured?: boolean;
 }

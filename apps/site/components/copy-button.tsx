@@ -2,6 +2,7 @@
 
 import { HugeiconsIcon } from "@hugeicons/react";
 import { Copy01Icon, Tick02Icon } from "@hugeicons/core-free-icons";
+import { Button } from "@/components/ui/button";
 
 interface CopyButtonProps {
   copied: boolean;
@@ -11,13 +12,8 @@ interface CopyButtonProps {
 
 export function CopyButton({ copied, onCopy, label }: CopyButtonProps) {
   return (
-    <button
-      type="button"
-      onClick={onCopy}
-      aria-label={copied ? "Copied" : label}
-      className="inline-flex size-8 shrink-0 items-center justify-center rounded-md text-muted transition-colors hover:bg-surface-hover hover:text-fg"
-    >
-      <HugeiconsIcon icon={copied ? Tick02Icon : Copy01Icon} size={16} className={copied ? "text-accent" : undefined} />
-    </button>
+    <Button variant="ghost" size="icon-lg" onClick={onCopy} aria-label={copied ? "Copied" : label}>
+      <HugeiconsIcon icon={copied ? Tick02Icon : Copy01Icon} className={copied ? "text-primary" : "text-muted-foreground"} />
+    </Button>
   );
 }

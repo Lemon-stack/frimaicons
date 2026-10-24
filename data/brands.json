@@ -4,7 +4,6 @@
     "title": "Airtel",
     "hex": "E40000",
     "source": "https://www.airtel.in/logo-tune",
-    "country": "IN",
     "sector": "telecom",
     "origin": "simple-icons"
   },
@@ -14,27 +13,151 @@
     "hex": "1677FF",
     "source": "https://global.alipay.com/docs/ac/website_hk/design",
     "guidelines": "https://global.alipay.com/docs/ac/website_hk/design",
-    "country": "CN",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "anchor",
+    "title": "Anchor",
+    "hex": "23322D",
+    "source": "https://getanchor.co",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "andela",
     "title": "Andela",
     "hex": "173B3F",
     "source": "https://andela.com",
-    "country": "NG",
     "sector": "talent",
-    "origin": "simple-icons"
+    "origin": "simple-icons",
+    "featured": true
+  },
+  {
+    "slug": "bachs",
+    "title": "Bachs",
+    "hex": "111111",
+    "source": "https://bachs.io",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "bamboo",
+    "title": "Bamboo",
+    "hex": "004A3D",
+    "source": "https://investbamboo.com",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "bayse",
+    "title": "Bayse",
+    "hex": "0166F4",
+    "source": "https://bayse.markets",
+    "sector": "other",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "brass",
+    "title": "Brass",
+    "hex": "0BCE5A",
+    "source": "https://trybrass.com",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "bumpa",
+    "title": "Bumpa",
+    "hex": "009444",
+    "source": "https://www.getbumpa.com",
+    "sector": "commerce",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "busha",
+    "title": "Busha",
+    "hex": "16CB3E",
+    "source": "https://busha.io",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "carbon",
+    "title": "Carbon",
+    "hex": "EE4D87",
+    "source": "https://getcarbon.co",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "chippercash",
+    "title": "Chipper Cash",
+    "hex": "6945D8",
+    "source": "https://chippercash.com",
+    "sector": "fintech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "chowdeck",
+    "title": "Chowdeck",
+    "hex": "FFCF1F",
+    "source": "https://chowdeck.com",
+    "sector": "commerce",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "cowrywise",
+    "title": "Cowrywise",
+    "hex": "0067F5",
+    "source": "https://cowrywise.com",
+    "guidelines": "https://cowrywise.com/press",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "fairmoney",
+    "title": "FairMoney",
+    "hex": "37A477",
+    "source": "https://fairmoney.io",
+    "sector": "fintech",
+    "origin": "traced-from-official-png",
+    "featured": true
   },
   {
     "slug": "fawry",
     "title": "Fawry",
     "hex": "FFD300",
     "source": "https://www.fawry.com/financials-and-earning-releases",
-    "country": "EG",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "flutterwave",
+    "title": "Flutterwave",
+    "hex": "FF9B00",
+    "source": "https://flutterwave.com",
+    "guidelines": "https://flutterwave.com/us/press-kit",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "gcash",
+    "title": "GCash",
+    "hex": "007CFF",
+    "source": "https://gcash.com",
+    "sector": "fintech",
+    "origin": "official-site"
   },
   {
     "slug": "gojek",
@@ -42,7 +165,6 @@
     "hex": "00AA13",
     "source": "https://gojek.com",
     "guidelines": "https://gojek.design",
-    "country": "ID",
     "sector": "mobility",
     "origin": "simple-icons"
   },
@@ -51,18 +173,82 @@
     "title": "Grab",
     "hex": "00B14F",
     "source": "https://en.wikipedia.org/wiki/File:Grab_(application)_logo.svg",
-    "country": "SG",
     "sector": "mobility",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "grey",
+    "title": "Grey",
+    "hex": "2467E3",
+    "source": "https://grey.co",
+    "guidelines": "https://grey.co/press-page",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "heliumhealth",
+    "title": "Helium Health",
+    "hex": "FF4A52",
+    "source": "https://heliumhealth.com",
+    "sector": "other",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "interswitch",
+    "title": "Interswitch",
+    "hex": "00425F",
+    "source": "https://interswitchgroup.com",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "jumia",
+    "title": "Jumia",
+    "hex": "FF9900",
+    "source": "https://www.jumia.com.ng",
+    "sector": "commerce",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "klarna",
     "title": "Klarna",
     "hex": "FFB3C7",
     "source": "https://klarna.design",
-    "country": "SE",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "kredete",
+    "title": "Kredete",
+    "hex": "560784",
+    "source": "https://kredete.io",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "kuda",
+    "title": "Kuda",
+    "hex": "40196D",
+    "source": "https://www.kuda.com",
+    "guidelines": "https://www.kuda.com/press/",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "lemfi",
+    "title": "LemFi",
+    "hex": "C3F989",
+    "source": "https://lemfi.com/en-gb/press-kit/brand-logo",
+    "guidelines": "https://lemfi.com/en-gb/press-kit",
+    "sector": "fintech",
+    "origin": "traced-from-press-kit-png",
+    "featured": true
   },
   {
     "slug": "mastercard",
@@ -70,27 +256,95 @@
     "hex": "EB001B",
     "source": "https://www.mastercard.com/brandcenter/us/en/download-artwork.html",
     "guidelines": "https://www.mastercard.com/brandcenter/us/en/brand-requirements/mastercard.html",
-    "country": "US",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "max",
+    "title": "MAX",
+    "hex": "FDDB00",
+    "source": "https://www.maxdrive.ai",
+    "sector": "mobility",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "mercadopago",
     "title": "Mercado Pago",
     "hex": "00B1EA",
     "source": "https://www.mercadopago.com",
-    "country": "AR",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "moniepoint",
+    "title": "Moniepoint",
+    "hex": "0357EE",
+    "source": "https://moniepoint.com/press",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "mono",
+    "title": "Mono",
+    "hex": "0055BA",
+    "source": "https://mono.co",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "moove",
+    "title": "Moove",
+    "hex": "FF4300",
+    "source": "https://www.moove.io",
+    "sector": "mobility",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "mpesa",
+    "title": "M-Pesa",
+    "hex": "39B54A",
+    "source": "https://www.safaricom.co.ke/about/brand-toolkit/logos",
+    "sector": "fintech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "nectarfi",
+    "title": "NectarFi",
+    "hex": "D08C1D",
+    "source": "https://nectarfi.finance",
+    "sector": "fintech",
+    "origin": "traced-from-official-png",
+    "featured": true
+  },
+  {
+    "slug": "nomba",
+    "title": "Nomba",
+    "hex": "FFCC00",
+    "source": "https://nomba.com",
+    "sector": "fintech",
+    "origin": "traced-from-official-png",
+    "featured": true
   },
   {
     "slug": "nubank",
     "title": "Nubank",
     "hex": "820AD1",
     "source": "https://nubank.com.br/en/press/",
-    "country": "BR",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "opay",
+    "title": "OPay",
+    "hex": "1DCF9F",
+    "source": "https://www.opayweb.com",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "orange",
@@ -98,9 +352,17 @@
     "hex": "FF7900",
     "source": "https://brand.orange.com",
     "guidelines": "https://system.design.orange.com/0c1af118d/p/494474-guidelines",
-    "country": "FR",
     "sector": "telecom",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "palmpay",
+    "title": "PalmPay",
+    "hex": "8F00FF",
+    "source": "https://drive.google.com/drive/folders/1cdqMpB3CwR2fDND2H7Vo4-7FoBjspKQB",
+    "sector": "fintech",
+    "origin": "traced-from-official-png",
+    "featured": true
   },
   {
     "slug": "paypal",
@@ -108,37 +370,72 @@
     "hex": "002991",
     "source": "https://www.paypal.com/us",
     "guidelines": "https://newsroom.paypal-corp.com/media-resources",
-    "country": "US",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "paystack",
+    "title": "Paystack",
+    "hex": "00C3F7",
+    "source": "https://paystack.com",
+    "guidelines": "https://paystack.com/brand",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "paytm",
     "title": "Paytm",
     "hex": "20336B",
     "source": "https://paytm.com",
-    "country": "IN",
     "sector": "fintech",
     "origin": "simple-icons"
   },
   {
-    "slug": "phonepe",
-    "title": "PhonePe",
-    "hex": "5F259F",
-    "source": "https://www.phonepe.com/press/",
-    "country": "IN",
+    "slug": "piggyvest",
+    "title": "PiggyVest",
+    "hex": "1734CA",
+    "source": "https://www.piggyvest.com",
     "sector": "fintech",
-    "origin": "simple-icons"
+    "origin": "official-site",
+    "featured": true
   },
   {
-    "slug": "pix",
-    "title": "Pix",
-    "hex": "77B6A8",
-    "source": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
-    "guidelines": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento_Pix/I_manual_uso_marca_pix.pdf",
-    "country": "BR",
+    "slug": "pocket",
+    "title": "Pocket",
+    "hex": "6B35EC",
+    "source": "https://pocketapp.com/press",
+    "guidelines": "https://pocketapp.com/press",
     "sector": "fintech",
-    "origin": "simple-icons"
+    "origin": "press-kit",
+    "featured": true
+  },
+  {
+    "slug": "pxxl",
+    "title": "Pxxl",
+    "hex": "FF63F9",
+    "source": "https://pxxl.app",
+    "sector": "other",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "quidax",
+    "title": "Quidax",
+    "hex": "6100A5",
+    "source": "https://www.quidax.io",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "raenest",
+    "title": "Raenest",
+    "hex": "4F3FD7",
+    "source": "https://www.raenest.com",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "razorpay",
@@ -146,27 +443,69 @@
     "hex": "0C2451",
     "source": "https://razorpay.com/newsroom/brand-assets/",
     "guidelines": "https://razorpay.com/newsroom/brand-assets/",
-    "country": "IN",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "remedialhealth",
+    "title": "Remedial Health",
+    "hex": "7CCF24",
+    "source": "https://remedial.health",
+    "sector": "other",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "revolut",
     "title": "Revolut",
     "hex": "191C1F",
     "source": "https://developer.revolut.com/docs/resources/marketing-assets-guidelines/marketing-guidelines",
-    "country": "GB",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "risevest",
+    "title": "Risevest",
+    "hex": "005864",
+    "source": "https://www.risevest.com",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "salaryindex",
+    "title": "Salary Index",
+    "hex": "2E6417",
+    "source": "https://salaryindex.ng",
+    "sector": "talent",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "stripe",
     "title": "Stripe",
     "hex": "635BFF",
     "source": "https://stripe.com/newsroom/information",
-    "country": "US",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "termii",
+    "title": "Termii",
+    "hex": "34A873",
+    "source": "https://termii.com",
+    "sector": "other",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
+    "slug": "terraindustries",
+    "title": "Terra Industries",
+    "hex": "000000",
+    "source": "https://www.terraindustries.co",
+    "sector": "other",
+    "origin": "official-site",
+    "featured": true
   },
   {
     "slug": "uber",
@@ -174,7 +513,6 @@
     "hex": "000000",
     "source": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
     "guidelines": "https://assets.uber.com/d/k4nuxdZ8MC7E/user-guide#/user-guide/terms-of-use",
-    "country": "US",
     "sector": "mobility",
     "origin": "simple-icons"
   },
@@ -183,27 +521,7 @@
     "title": "Visa",
     "hex": "1A1F71",
     "source": "https://merchantsignageeu.visa.com/product.asp?dptID=696",
-    "country": "US",
     "sector": "fintech",
-    "origin": "simple-icons"
-  },
-  {
-    "slug": "vodafone",
-    "title": "Vodafone",
-    "hex": "E60000",
-    "source": "https://web.vodafone.com.eg",
-    "country": "GB",
-    "sector": "telecom",
-    "origin": "simple-icons"
-  },
-  {
-    "slug": "wechat",
-    "title": "WeChat",
-    "hex": "07C160",
-    "source": "https://wechat.design/tool/brand",
-    "guidelines": "https://wechat.design/brand/main-brand",
-    "country": "CN",
-    "sector": "social",
     "origin": "simple-icons"
   },
   {
@@ -212,17 +530,24 @@
     "hex": "9FE870",
     "source": "https://wise.design/foundations/logo",
     "guidelines": "https://wise.design/foundations/logo",
-    "country": "GB",
     "sector": "fintech",
     "origin": "simple-icons"
   },
   {
-    "slug": "xendit",
-    "title": "Xendit",
-    "hex": "4573FF",
-    "source": "https://www.xendit.co/en/company/asset-and-branding",
-    "country": "ID",
+    "slug": "yoco",
+    "title": "Yoco",
+    "hex": "00A9E0",
+    "source": "https://www.yoco.com",
     "sector": "fintech",
-    "origin": "simple-icons"
+    "origin": "official-site"
+  },
+  {
+    "slug": "zone",
+    "title": "Zone",
+    "hex": "753BBD",
+    "source": "https://zonenetwork.com",
+    "sector": "fintech",
+    "origin": "official-site",
+    "featured": true
   }
 ]

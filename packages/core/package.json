@@ -1,8 +1,28 @@
 {
-  "name": "frimaicons",
+  "name": "@frimaicons/core",
   "version": "0.1.0",
   "description": "Company logos as SVG data: Paystack to GCash, one package.",
   "license": "MIT",
+  "author": "Lemon Confidence",
+  "homepage": "https://github.com/Lemon-stack/frimaicons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemon-stack/frimaicons.git",
+    "directory": "packages/core"
+  },
+  "bugs": {
+    "url": "https://github.com/Lemon-stack/frimaicons/issues"
+  },
+  "keywords": [
+    "logos",
+    "brand",
+    "icons",
+    "svg",
+    "fintech",
+    "nigeria",
+    "africa",
+    "startups"
+  ],
   "type": "module",
   "sideEffects": false,
   "main": "./dist/index.cjs",
@@ -16,13 +36,16 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
     "generate": "node scripts/generate.mjs",
     "build": "pnpm generate && tsup",
     "typecheck": "pnpm generate && tsc --noEmit",
-    "test": "vitest run"
+    "test": "vitest run",
+    "prepublishOnly": "pnpm build"
   },
   "devDependencies": {
     "tsup": "^9.0.0",

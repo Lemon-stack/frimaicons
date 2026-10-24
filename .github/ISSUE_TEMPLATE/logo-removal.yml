@@ -1,0 +1,43 @@
+name: Logo removal or correction
+description: For brand owners and their representatives. Ask for a logo to be removed or updated.
+title: "Logo removal: "
+labels: ["removal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We act on these promptly. If you'd rather not post publicly, say so below and we'll follow up privately.
+  - type: input
+    id: brand
+    attributes:
+      label: Brand
+      placeholder: Company name or slug, e.g. stripe
+    validations:
+      required: true
+  - type: dropdown
+    id: request
+    attributes:
+      label: Request
+      options:
+        - Remove the logo
+        - Replace with an updated logo
+        - Fix the brand color or metadata
+    validations:
+      required: true
+  - type: dropdown
+    id: relation
+    attributes:
+      label: Your relation to the brand
+      options:
+        - I work for the company
+        - I represent the company (agency or legal)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: For updates, link the current official logo or brand guidelines.
+    validations:
+      required: true

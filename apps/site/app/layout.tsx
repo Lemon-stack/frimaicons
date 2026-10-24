@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { SiteFooter } from "@/components/site-footer";
-import { SiteHeader } from "@/components/site-header";
+import { cn } from "@/lib/utils";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next";
 
 const geistSans = Geist({
-  variable: "--font-geist-sans",
+  variable: "--font-sans",
   subsets: ["latin"],
 });
 
@@ -24,12 +24,16 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
-      <body className="flex min-h-full flex-col font-sans">
-        <SiteHeader />
-        <main className="mx-auto w-full max-w-6xl flex-1 px-4 sm:px-6">{children}</main>
-        <SiteFooter />
-      </body>
+    <html
+      lang="en"
+      className={cn(
+        "dark h-full antialiased",
+        geistSans.variable,
+        geistMono.variable,
+      )}
+    >
+      <Analytics />
+      <body className="flex min-h-full flex-col font-sans">{children}</body>
     </html>
   );
 }

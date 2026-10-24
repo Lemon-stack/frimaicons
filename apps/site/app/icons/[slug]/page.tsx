@@ -3,8 +3,10 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { HugeiconsIcon } from "@hugeicons/react";
 import { ArrowLeft01Icon } from "@hugeicons/core-free-icons";
-import { getIcon, icons } from "frimaicons";
-import { IconDetail } from "@/components/icon-detail";
+import { getIcon, icons } from "@frimaicons/core";
+import { Container } from "@/components/container";
+import { IconPanel } from "@/components/icon-panel";
+import { PageShell } from "@/components/page-shell";
 
 export const dynamicParams = false;
 
@@ -26,12 +28,16 @@ export default async function IconPage({ params }: PageProps<"/icons/[slug]">) {
   if (!icon) notFound();
 
   return (
-    <div className="py-10">
-      <Link href="/" className="inline-flex items-center gap-1.5 text-sm text-muted hover:text-fg">
-        <HugeiconsIcon icon={ArrowLeft01Icon} size={16} />
-        All icons
-      </Link>
-      <IconDetail icon={icon} />
-    </div>
+    <PageShell>
+      <Container className="py-10">
+        <Link href="/" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground">
+          <HugeiconsIcon icon={ArrowLeft01Icon} size={16} />
+          All icons
+        </Link>
+        <div className="mt-6 max-w-3xl text-sm">
+          <IconPanel icon={icon} titleAs="h1" />
+        </div>
+      </Container>
+    </PageShell>
   );
 }

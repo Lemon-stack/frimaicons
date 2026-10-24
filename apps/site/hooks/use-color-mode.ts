@@ -2,10 +2,11 @@
 
 import { useState } from "react";
 
-export type ColorMode = "mono" | "brand";
+export const COLOR_MODES = ["mono", "brand"] as const;
+
+export type ColorMode = (typeof COLOR_MODES)[number];
 
 export function useColorMode(initial: ColorMode = "mono") {
   const [mode, setMode] = useState<ColorMode>(initial);
-  const toggle = () => setMode((m) => (m === "mono" ? "brand" : "mono"));
-  return { mode, toggle, iconColor: mode === "brand" ? "brand" : "currentColor" };
+  return { mode, setMode, iconColor: mode === "brand" ? "brand" : "currentColor" };
 }

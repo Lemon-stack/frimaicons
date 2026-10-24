@@ -1,0 +1,54 @@
+name: Request a logo
+description: Ask for a company logo to be added.
+title: "Logo request: "
+labels: ["logo request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the site and `data/wanted.json` first, in case it's already there or planned.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Paystack
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Company website
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Logo source
+      description: Press kit, brand page, or any page showing the logo. Leave blank if you couldn't find one.
+      placeholder: https://
+  - type: dropdown
+    id: sector
+    attributes:
+      label: Sector
+      options:
+        - fintech
+        - telecom
+        - mobility
+        - commerce
+        - talent
+        - social
+        - other
+    validations:
+      required: true
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contributing
+      options:
+        - label: I'd like to add this logo myself (see CONTRIBUTING.md)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else, like which version of the logo to use.

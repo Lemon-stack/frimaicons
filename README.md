@@ -13,10 +13,10 @@ import { Stripe, Andela } from "@frimaicons/react";
 <Andela color="brand" title="Andela" />
 ```
 
-Raw data (path, hex, source, country, sector) ships in the `frimaicons` package:
+Raw data (path, hex, source, sector) ships in the `@frimaicons/core` package:
 
 ```ts
-import { fiStripe, icons, searchIcons } from "frimaicons";
+import { fiStripe, icons, searchIcons } from "@frimaicons/core";
 ```
 
 ## Repo layout
@@ -24,20 +24,20 @@ import { fiStripe, icons, searchIcons } from "frimaicons";
 | Path | What |
 | --- | --- |
 | `icons/*.svg` | One file per brand: a single `<path>` in a 24×24 viewBox |
-| `data/brands.json` | Metadata per brand: slug, title, hex, source, country, sector |
-| `data/wanted.json` | Brands we still need official SVGs for |
-| `packages/core` | `frimaicons`: icon data, search helpers, types |
+| `data/brands.json` | Metadata per brand: slug, title, hex, source, sector |
+| `data/wanted.json` | Brands we still need logos for |
+| `packages/core` | `@frimaicons/core`: icon data, search helpers, types |
 | `packages/react` | `@frimaicons/react`: generated components |
 | `apps/site` | Next.js static site: browse, search, copy, download |
 
 ## Adding a logo
 
-1. Get the logo from the company's official press kit or brand page. Don't redraw it from memory.
-2. Reduce it to a single-color, single-path SVG in a 24×24 viewBox and save it as `icons/<slug>.svg`.
-3. Add an entry to `data/brands.json` with `slug`, `title`, `hex`, `source` (the press kit URL), `country` (ISO alpha-2 of HQ) and `sector`.
-4. Run `pnpm test` to validate.
+Full guide in [CONTRIBUTING.md](CONTRIBUTING.md). In short:
 
-Brands that already exist in [Simple Icons](https://simpleicons.org) (CC0) can be pulled in by adding them to `data/simple-icons-seed.json` and running `pnpm import:simple-icons`.
+1. Get the logo, ideally from the company's press kit, brand page or website.
+2. Reduce it to a single-color, single-path SVG in a 24×24 viewBox and save it as `icons/<slug>.svg`.
+3. Add an entry to `data/brands.json` with `slug`, `title`, `hex`, `source` (the press kit URL) and `sector`.
+4. Run `pnpm test` to validate.
 
 ## Development
 

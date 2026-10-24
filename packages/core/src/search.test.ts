@@ -3,7 +3,7 @@ import { getIcon, icons, searchIcons } from "./index";
 
 describe("searchIcons", () => {
   it("ranks exact title matches first", () => {
-    expect(searchIcons(icons, { query: "pay" })[0]?.slug).toBe("paypal");
+    expect(searchIcons(icons, { query: "paypal" })[0]?.slug).toBe("paypal");
     expect(searchIcons(icons, { query: "Stripe" })[0]?.slug).toBe("stripe");
   });
 
@@ -11,9 +11,20 @@ describe("searchIcons", () => {
     expect(searchIcons(icons, { query: "mercado pago" }).map((i) => i.slug)).toContain("mercadopago");
   });
 
-  it("filters by sector and country", () => {
-    const results = searchIcons(icons, { sector: "fintech", country: "NG" });
-    expect(results.every((i) => i.sector === "fintech" && i.country === "NG")).toBe(true);
+  it("filters by sector", () => {
+    const results = searchIcons(icons, { sector: "telecom" });
+    expect(results.length).toBeGreaterThan(0);
+    expect(results.every((i) => i.sector === "telecom")).toBe(true);
+  });
+
+  it("orders equally good matches alphabetically, ignoring featured", () => {
+    const slugs = searchIcons(icons, { query: "pay" }).map((i) => i.slug);
+    expect(slugs.indexOf("paypal")).toBeLessThan(slugs.indexOf("paystack"));
+  });
+
+  it("lists all icons alphabetically by title", () => {
+    const titles = searchIcons(icons).map((i) => i.title);
+    expect(titles).toEqual([...titles].sort((a, b) => a.localeCompare(b)));
   });
 
   it("returns nothing for unmatched queries", () => {

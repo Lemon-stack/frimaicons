@@ -3,7 +3,6 @@ import type { FrimaIcon, Sector } from "./types";
 export interface SearchOptions {
   query?: string;
   sector?: Sector;
-  country?: string;
 }
 
 function normalize(value: string) {
@@ -18,10 +17,10 @@ function matchScore(icon: FrimaIcon, query: string) {
   return -1;
 }
 
-export function searchIcons(icons: readonly FrimaIcon[], { query = "", sector, country }: SearchOptions = {}) {
+export function searchIcons(icons: readonly FrimaIcon[], { query = "", sector }: SearchOptions = {}) {
   const q = normalize(query);
   return icons
-    .filter((icon) => (!sector || icon.sector === sector) && (!country || icon.country === country))
+    .filter((icon) => !sector || icon.sector === sector)
     .map((icon) => ({ icon, score: q ? matchScore(icon, q) : 0 }))
     .filter(({ score }) => score >= 0)
     .sort((a, b) => a.score - b.score || a.icon.title.localeCompare(b.icon.title))

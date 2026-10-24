@@ -5,7 +5,7 @@ const outDir = new URL("../src/generated/", import.meta.url);
 
 function renderModule(names) {
   return [
-    `import { ${names.map((name) => `fi${name}`).join(", ")} } from "frimaicons";`,
+    `import { ${names.map((name) => `fi${name}`).join(", ")} } from "@frimaicons/core";`,
     `import { createIcon } from "../brand-icon";`,
     "",
     ...names.map((name) => `export const ${name} = /*#__PURE__*/ createIcon(fi${name});`),

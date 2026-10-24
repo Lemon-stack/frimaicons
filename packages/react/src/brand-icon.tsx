@@ -1,5 +1,5 @@
 import { forwardRef, type SVGProps } from "react";
-import type { FrimaIcon } from "frimaicons";
+import type { FrimaIcon } from "@frimaicons/core";
 
 export interface FrimaIconProps extends Omit<SVGProps<SVGSVGElement>, "color" | "ref"> {
   size?: number | string;
