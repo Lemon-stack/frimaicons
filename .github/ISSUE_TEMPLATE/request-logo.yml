@@ -32,10 +32,16 @@ body:
     attributes:
       label: Sector
       options:
+        - ai
+        - tech
         - fintech
+        - banking
         - telecom
         - mobility
+        - aviation
         - commerce
+        - media
+        - health
         - talent
         - social
         - other

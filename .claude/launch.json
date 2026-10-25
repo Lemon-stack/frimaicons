@@ -4,8 +4,26 @@
     {
       "name": "site-static",
       "runtimeExecutable": "pnpm",
-      "runtimeArgs": ["--filter", "site", "exec", "wrangler", "dev", "--port", "8787"],
+      "runtimeArgs": [
+        "--filter",
+        "site",
+        "exec",
+        "wrangler",
+        "dev",
+        "--port",
+        "8787"
+      ],
       "port": 8787
+    },
+    {
+      "name": "site-dev",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": [
+        "--filter",
+        "site",
+        "dev"
+      ],
+      "port": 3000
     }
   ]
 }

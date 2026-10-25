@@ -30,11 +30,12 @@ export function IconCard({ icon, color, onSelect }: IconCardProps) {
       }}
       aria-label={icon.title}
       className={cn(
-        "flex aspect-square items-center justify-center rounded-xl transition-[box-shadow,transform] outline-none hover:ring-2 hover:ring-primary focus-visible:ring-2 focus-visible:ring-primary active:scale-95",
-        light ? "bg-neutral-100" : "bg-tile",
+        "flex h-32 flex-col items-center justify-center gap-3 rounded-xl px-3 transition-[box-shadow,transform] outline-none hover:ring-2 hover:ring-primary focus-visible:ring-2 focus-visible:ring-primary active:scale-95 sm:h-36",
+        light ? "bg-neutral-100 text-neutral-900" : "bg-tile",
       )}
     >
-      <BrandIcon icon={icon} size={24} color={color} />
+      <BrandIcon icon={icon} size={40} color={color} />
+      <span className="w-full truncate text-center text-sm">{icon.title}</span>
     </Link>
   );
 }

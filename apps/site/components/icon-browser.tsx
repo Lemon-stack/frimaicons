@@ -1,6 +1,7 @@
 "use client";
 
 import { useColorMode } from "@/hooks/use-color-mode";
+import { useGithubStars } from "@/hooks/use-github-stars";
 import { useIconDialog } from "@/hooks/use-icon-dialog";
 import { useIconSearch } from "@/hooks/use-icon-search";
 import { useSearchShortcut } from "@/hooks/use-search-shortcut";
@@ -20,13 +21,14 @@ export function IconBrowser() {
   const { mode, setMode, iconColor } = useColorMode();
   const dialog = useIconDialog();
   const { ref: searchRef, label: shortcutLabel } = useSearchShortcut();
+  const stars = useGithubStars();
   const { query, sector, setSector, results, total } = search;
 
   return (
     <div className="grid grid-cols-[minmax(0,1fr)] gap-3 p-3 sm:p-4 lg:h-dvh lg:grid-cols-[264px_minmax(0,1fr)] lg:grid-rows-[auto_minmax(0,1fr)]">
       <BrandPanel />
 
-      <TopBar>
+      <TopBar stars={stars}>
         <SearchBar
           ref={searchRef}
           value={query}

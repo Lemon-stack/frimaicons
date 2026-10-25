@@ -1,11 +1,51 @@
 [
   {
+    "slug": "accessbank",
+    "title": "Access Bank",
+    "hex": "FF6309",
+    "source": "https://en.wikipedia.org/wiki/File:Access_Bank_Plc_Logo.png",
+    "sector": "banking",
+    "origin": "traced-from-wikipedia-png"
+  },
+  {
+    "slug": "airbnb",
+    "title": "Airbnb",
+    "hex": "FF5A5F",
+    "source": "https://www.airbnb.com",
+    "sector": "commerce",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "airpeace",
+    "title": "Air Peace",
+    "hex": "2953A0",
+    "source": "https://flyairpeace.com/wp-content/uploads/2024/05/cropped-favicon-192x192.webp",
+    "sector": "aviation",
+    "origin": "traced-from-official-png"
+  },
+  {
     "slug": "airtel",
     "title": "Airtel",
     "hex": "E40000",
     "source": "https://www.airtel.in/logo-tune",
     "sector": "telecom",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "ait",
+    "title": "AIT",
+    "hex": "950002",
+    "source": "https://en.wikipedia.org/wiki/File:AIT_News_Logo.jpg",
+    "sector": "media",
+    "origin": "traced-from-wikipedia-png"
+  },
+  {
+    "slug": "alat",
+    "title": "ALAT",
+    "hex": "A21839",
+    "source": "https://play.google.com/store/apps/details?id=com.wemabank.alat.prod",
+    "sector": "banking",
+    "origin": "traced-from-app-icon"
   },
   {
     "slug": "alipay",
@@ -35,6 +75,39 @@
     "featured": true
   },
   {
+    "slug": "android",
+    "title": "Android",
+    "hex": "3DDC84",
+    "source": "https://partnermarketinghub.withgoogle.com/brands/android/visual-identity/visual-identity/logo-lock-ups",
+    "guidelines": "https://developer.android.com/distribute/marketing-tools/brand-guidelines#brand-android",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "anthropic",
+    "title": "Anthropic",
+    "hex": "191919",
+    "source": "https://www.anthropic.com",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "apple",
+    "title": "Apple",
+    "hex": "000000",
+    "source": "https://www.apple.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "arikair",
+    "title": "Arik Air",
+    "hex": "0D3F84",
+    "source": "https://en.wikipedia.org/wiki/File:Arik_Air_logo.svg",
+    "sector": "aviation",
+    "origin": "wikipedia"
+  },
+  {
     "slug": "bachs",
     "title": "Bachs",
     "hex": "111111",
@@ -62,6 +135,14 @@
     "featured": true
   },
   {
+    "slug": "binance",
+    "title": "Binance",
+    "hex": "F0B90B",
+    "source": "https://binance.com",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "brass",
     "title": "Brass",
     "hex": "0BCE5A",
@@ -69,6 +150,14 @@
     "sector": "fintech",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "buafoods",
+    "title": "BUA Foods",
+    "hex": "B22B40",
+    "source": "https://www.buafoodsplc.com/wp-content/uploads/2021/12/BUA-Foods-Logo.svg",
+    "sector": "other",
+    "origin": "official-site"
   },
   {
     "slug": "bumpa",
@@ -98,6 +187,15 @@
     "featured": true
   },
   {
+    "slug": "chatgpt",
+    "title": "ChatGPT",
+    "hex": "000000",
+    "source": "https://openai.com/brand/",
+    "guidelines": "https://openai.com/brand/",
+    "sector": "ai",
+    "origin": "official-site"
+  },
+  {
     "slug": "chippercash",
     "title": "Chipper Cash",
     "hex": "6945D8",
@@ -115,6 +213,31 @@
     "featured": true
   },
   {
+    "slug": "claude",
+    "title": "Claude",
+    "hex": "D97757",
+    "source": "https://claude.ai",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "cloudflare",
+    "title": "Cloudflare",
+    "hex": "F38020",
+    "source": "https://www.cloudflare.com/logo/",
+    "guidelines": "https://www.cloudflare.com/trademark/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "coinbase",
+    "title": "Coinbase",
+    "hex": "0052FF",
+    "source": "https://www.coinbase.com/press",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "cowrywise",
     "title": "Cowrywise",
     "hex": "0067F5",
@@ -123,6 +246,56 @@
     "sector": "fintech",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "cursor",
+    "title": "Cursor",
+    "hex": "000000",
+    "source": "https://cursor.com/brand",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "deepseek",
+    "title": "DeepSeek",
+    "hex": "5786FE",
+    "source": "https://www.deepseek.com",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "discord",
+    "title": "Discord",
+    "hex": "5865F2",
+    "source": "https://discord.com/branding",
+    "guidelines": "https://discord.com/branding",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "dropbox",
+    "title": "Dropbox",
+    "hex": "0061FF",
+    "source": "https://www.dropbox.com/branding",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "duolingo",
+    "title": "Duolingo",
+    "hex": "58CC02",
+    "source": "https://design.duolingo.com",
+    "guidelines": "https://design.duolingo.com",
+    "sector": "other",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "ecobank",
+    "title": "Ecobank",
+    "hex": "00597D",
+    "source": "https://www.ecobank.com/img/eco/eco-logo-svg.svg",
+    "sector": "banking",
+    "origin": "official-site"
   },
   {
     "slug": "fairmoney",
@@ -140,6 +313,39 @@
     "source": "https://www.fawry.com/financials-and-earning-releases",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "fcmb",
+    "title": "FCMB",
+    "hex": "5C2684",
+    "source": "https://commons.wikimedia.org/wiki/File:FCMB_Logo.png",
+    "sector": "banking",
+    "origin": "traced-from-wikimedia-png"
+  },
+  {
+    "slug": "fidelitybank",
+    "title": "Fidelity Bank",
+    "hex": "002082",
+    "source": "https://www.fidelitybank.ng/wp-content/uploads/2020/07/Fidelity_Bank_Plc_Main_Logo.svg",
+    "sector": "banking",
+    "origin": "official-site"
+  },
+  {
+    "slug": "figma",
+    "title": "Figma",
+    "hex": "F24E1E",
+    "source": "https://www.figma.com/using-the-figma-brand/",
+    "guidelines": "https://www.figma.com/using-the-figma-brand/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "firstbank",
+    "title": "FirstBank",
+    "hex": "003B65",
+    "source": "https://firstbankgroup.com/ng/wp-content/uploads/2020/01/First-Bank.svg",
+    "sector": "banking",
+    "origin": "official-site"
   },
   {
     "slug": "flutterwave",
@@ -160,6 +366,23 @@
     "origin": "official-site"
   },
   {
+    "slug": "github",
+    "title": "GitHub",
+    "hex": "181717",
+    "source": "https://github.com/logos",
+    "guidelines": "https://github.com/logos",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "githubcopilot",
+    "title": "GitHub Copilot",
+    "hex": "000000",
+    "source": "https://primer.style/foundations/icons/copilot-24",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "gojek",
     "title": "Gojek",
     "hex": "00AA13",
@@ -169,12 +392,37 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "google",
+    "title": "Google",
+    "hex": "4285F4",
+    "source": "https://partnermarketinghub.withgoogle.com",
+    "guidelines": "https://about.google/brand-resource-center/brand-elements/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlegemini",
+    "title": "Google Gemini",
+    "hex": "8E75B2",
+    "source": "https://gemini.google.com",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "grab",
     "title": "Grab",
     "hex": "00B14F",
     "source": "https://en.wikipedia.org/wiki/File:Grab_(application)_logo.svg",
     "sector": "mobility",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "greenafrica",
+    "title": "Green Africa",
+    "hex": "1EFF5A",
+    "source": "https://en.wikipedia.org/wiki/File:Green_Africa_Airways_Logo.svg",
+    "sector": "aviation",
+    "origin": "wikipedia"
   },
   {
     "slug": "grey",
@@ -187,13 +435,47 @@
     "featured": true
   },
   {
+    "slug": "gtbank",
+    "title": "GTBank",
+    "hex": "DE4A09",
+    "source": "https://commons.wikimedia.org/wiki/File:GTBank_logo.svg",
+    "sector": "banking",
+    "origin": "wikimedia-commons"
+  },
+  {
     "slug": "heliumhealth",
     "title": "Helium Health",
     "hex": "FF4A52",
     "source": "https://heliumhealth.com",
-    "sector": "other",
+    "sector": "health",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "huggingface",
+    "title": "Hugging Face",
+    "hex": "FFD21E",
+    "source": "https://huggingface.co/brand",
+    "guidelines": "https://huggingface.co/brand",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "ibomair",
+    "title": "Ibom Air",
+    "hex": "005337",
+    "source": "https://www.ibomair.com/wp-content/uploads/2018/12/ibom-air-logo-hallmark.png",
+    "sector": "aviation",
+    "origin": "traced-from-official-png"
+  },
+  {
+    "slug": "instagram",
+    "title": "Instagram",
+    "hex": "FF0069",
+    "source": "https://about.meta.com/brand/resources/instagram",
+    "guidelines": "https://about.meta.com/brand/resources/instagram",
+    "sector": "social",
+    "origin": "simple-icons"
   },
   {
     "slug": "interswitch",
@@ -205,6 +487,23 @@
     "featured": true
   },
   {
+    "slug": "jaizbank",
+    "title": "Jaiz Bank",
+    "hex": "FFBF00",
+    "source": "https://www.jaizbankplc.com",
+    "sector": "banking",
+    "origin": "official-site"
+  },
+  {
+    "slug": "jiji",
+    "title": "Jiji",
+    "hex": "00B53F",
+    "source": "https://jiji.ng",
+    "sector": "commerce",
+    "origin": "official-site",
+    "featured": true
+  },
+  {
     "slug": "jumia",
     "title": "Jumia",
     "hex": "FF9900",
@@ -212,6 +511,14 @@
     "sector": "commerce",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "keystonebank",
+    "title": "Keystone Bank",
+    "hex": "5CBACC",
+    "source": "https://commons.wikimedia.org/wiki/File:Keystone_Logo.png",
+    "sector": "banking",
+    "origin": "traced-from-wikimedia-png"
   },
   {
     "slug": "klarna",
@@ -251,6 +558,14 @@
     "featured": true
   },
   {
+    "slug": "linear",
+    "title": "Linear",
+    "hex": "5E6AD2",
+    "source": "https://linear.app",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "mastercard",
     "title": "MasterCard",
     "hex": "EB001B",
@@ -269,11 +584,36 @@
     "featured": true
   },
   {
+    "slug": "maxair",
+    "title": "Max Air",
+    "hex": "D3222A",
+    "source": "https://en.wikipedia.org/wiki/File:Max_Air_logo.jpg",
+    "sector": "aviation",
+    "origin": "traced-from-wikipedia-png"
+  },
+  {
     "slug": "mercadopago",
     "title": "Mercado Pago",
     "hex": "00B1EA",
     "source": "https://www.mercadopago.com",
     "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "meta",
+    "title": "Meta",
+    "hex": "0467DF",
+    "source": "https://www.meta.com",
+    "guidelines": "https://www.facebook.com/brand/resources/meta/company-brand",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "mistralai",
+    "title": "Mistral AI",
+    "hex": "FA520F",
+    "source": "https://chat.mistral.ai",
+    "sector": "ai",
     "origin": "simple-icons"
   },
   {
@@ -321,6 +661,15 @@
     "featured": true
   },
   {
+    "slug": "netflix",
+    "title": "Netflix",
+    "hex": "E50914",
+    "source": "https://brand.netflix.com/en/assets/logos",
+    "guidelines": "https://brand.netflix.com/en/assets/logos",
+    "sector": "media",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "nomba",
     "title": "Nomba",
     "hex": "FFCC00",
@@ -330,11 +679,43 @@
     "featured": true
   },
   {
+    "slug": "notion",
+    "title": "Notion",
+    "hex": "000000",
+    "source": "https://www.notion.so",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "nta",
+    "title": "NTA",
+    "hex": "643200",
+    "source": "https://en.wikipedia.org/wiki/File:Logo_of_the_Nigerian_Television_Authority.png",
+    "sector": "media",
+    "origin": "traced-from-wikipedia-png"
+  },
+  {
     "slug": "nubank",
     "title": "Nubank",
     "hex": "820AD1",
     "source": "https://nubank.com.br/en/press/",
     "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "nvidia",
+    "title": "NVIDIA",
+    "hex": "76B900",
+    "source": "https://www.nvidia.com/en-us",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "ollama",
+    "title": "Ollama",
+    "hex": "000000",
+    "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922",
+    "sector": "ai",
     "origin": "simple-icons"
   },
   {
@@ -347,6 +728,15 @@
     "featured": true
   },
   {
+    "slug": "openai",
+    "title": "OpenAI",
+    "hex": "000000",
+    "source": "https://openai.com/brand/",
+    "guidelines": "https://openai.com/brand/",
+    "sector": "ai",
+    "origin": "official-site"
+  },
+  {
     "slug": "orange",
     "title": "Orange",
     "hex": "FF7900",
@@ -354,6 +744,14 @@
     "guidelines": "https://system.design.orange.com/0c1af118d/p/494474-guidelines",
     "sector": "telecom",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "overlandairways",
+    "title": "Overland Airways",
+    "hex": "233769",
+    "source": "https://storage.aerocrs.com/299/system/logo-new-1.png",
+    "sector": "aviation",
+    "origin": "traced-from-official-png"
   },
   {
     "slug": "palmpay",
@@ -392,6 +790,14 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "perplexity",
+    "title": "Perplexity",
+    "hex": "1FB8CD",
+    "source": "https://www.perplexity.ai",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "piggyvest",
     "title": "PiggyVest",
     "hex": "1734CA",
@@ -399,6 +805,15 @@
     "sector": "fintech",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "pinterest",
+    "title": "Pinterest",
+    "hex": "BD081C",
+    "source": "https://business.pinterest.com/en/brand-guidelines",
+    "guidelines": "https://business.pinterest.com/en/brand-guidelines",
+    "sector": "social",
+    "origin": "simple-icons"
   },
   {
     "slug": "pocket",
@@ -409,6 +824,22 @@
     "sector": "fintech",
     "origin": "press-kit",
     "featured": true
+  },
+  {
+    "slug": "polarisbank",
+    "title": "Polaris Bank",
+    "hex": "781496",
+    "source": "https://commons.wikimedia.org/wiki/File:Polaris-Bank-Limited.png",
+    "sector": "banking",
+    "origin": "traced-from-wikimedia-png"
+  },
+  {
+    "slug": "polymarket",
+    "title": "Polymarket",
+    "hex": "1652F0",
+    "source": "https://polymarket.com",
+    "sector": "fintech",
+    "origin": "official-site"
   },
   {
     "slug": "pxxl",
@@ -447,11 +878,20 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "reddit",
+    "title": "Reddit",
+    "hex": "FF4500",
+    "source": "https://www.redditinc.com/brand",
+    "guidelines": "https://www.redditinc.com/brand",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "remedialhealth",
     "title": "Remedial Health",
     "hex": "7CCF24",
     "source": "https://remedial.health",
-    "sector": "other",
+    "sector": "health",
     "origin": "official-site",
     "featured": true
   },
@@ -473,6 +913,14 @@
     "featured": true
   },
   {
+    "slug": "robinhood",
+    "title": "Robinhood",
+    "hex": "CCFF00",
+    "source": "https://press.robinhood.com",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "salaryindex",
     "title": "Salary Index",
     "hex": "2E6417",
@@ -482,11 +930,87 @@
     "featured": true
   },
   {
+    "slug": "samsung",
+    "title": "Samsung",
+    "hex": "1428A0",
+    "source": "https://www.samsung.com/us/about-us/brand-identity/logo/",
+    "guidelines": "https://www.samsung.com/us/about-us/brand-identity/logo/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "shopify",
+    "title": "Shopify",
+    "hex": "7AB55C",
+    "source": "https://www.shopify.com/brand-assets",
+    "guidelines": "https://www.shopify.com/brand-assets",
+    "sector": "commerce",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "snapchat",
+    "title": "Snapchat",
+    "hex": "FFFC00",
+    "source": "https://www.snapchat.com/brand-guidelines",
+    "guidelines": "https://www.snapchat.com/brand-guidelines",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "spacex",
+    "title": "SpaceX",
+    "hex": "000000",
+    "source": "https://www.spacex.com",
+    "sector": "aviation",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "spotify",
+    "title": "Spotify",
+    "hex": "1ED760",
+    "source": "https://developer.spotify.com/documentation/general/design-and-branding/#using-our-logo",
+    "guidelines": "https://developer.spotify.com/documentation/general/design-and-branding/#using-our-logo",
+    "sector": "media",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "stanbicibtc",
+    "title": "Stanbic IBTC",
+    "hex": "0033A1",
+    "source": "https://www.stanbicibtcbank.com",
+    "sector": "banking",
+    "origin": "official-site"
+  },
+  {
+    "slug": "sterlingbank",
+    "title": "Sterling Bank",
+    "hex": "DB353A",
+    "source": "https://sterling.ng/wp-content/uploads/2023/04/SterlingLogo.png",
+    "sector": "banking",
+    "origin": "traced-from-official-png"
+  },
+  {
     "slug": "stripe",
     "title": "Stripe",
     "hex": "635BFF",
     "source": "https://stripe.com/newsroom/information",
     "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "supabase",
+    "title": "Supabase",
+    "hex": "3FCF8E",
+    "source": "https://github.com/supabase/supabase/blob/4031a7549f5d46da7bc79c01d56be4177dc7c114/packages/common/assets/images/supabase-logo-wordmark--light.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "telegram",
+    "title": "Telegram",
+    "hex": "26A5E4",
+    "source": "https://telegram.org/tour/screenshots",
+    "sector": "social",
     "origin": "simple-icons"
   },
   {
@@ -508,6 +1032,56 @@
     "featured": true
   },
   {
+    "slug": "tesla",
+    "title": "Tesla",
+    "hex": "CC0000",
+    "source": "https://www.tesla.com/tesla-gallery",
+    "sector": "mobility",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "threads",
+    "title": "Threads",
+    "hex": "000000",
+    "source": "https://www.meta.com/brand/resources/instagram/threads",
+    "guidelines": "https://www.meta.com/brand/resources/instagram/threads",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "tiktok",
+    "title": "TikTok",
+    "hex": "000000",
+    "source": "https://tiktok.com",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "twitch",
+    "title": "Twitch",
+    "hex": "9146FF",
+    "source": "https://brand.twitch.tv",
+    "guidelines": "https://brand.twitch.tv",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "uandcmfb",
+    "title": "U&C Microfinance Bank",
+    "hex": "DC352F",
+    "source": "https://uandcmfb.com",
+    "sector": "banking",
+    "origin": "traced-from-official-png"
+  },
+  {
+    "slug": "uba",
+    "title": "UBA",
+    "hex": "D70900",
+    "source": "https://en.wikipedia.org/wiki/File:United_Bank_for_Africa_logo.svg",
+    "sector": "banking",
+    "origin": "wikipedia"
+  },
+  {
     "slug": "uber",
     "title": "Uber",
     "hex": "000000",
@@ -517,11 +1091,61 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "unionbank",
+    "title": "Union Bank",
+    "hex": "009FE3",
+    "source": "https://www.unionbankng.com/wp-content/uploads/2026/04/UnionHorseLogo.png",
+    "sector": "banking",
+    "origin": "traced-from-official-png"
+  },
+  {
+    "slug": "unitednigeria",
+    "title": "United Nigeria Airlines",
+    "hex": "0074B3",
+    "source": "https://flyunitednigeria.com/wp-content/uploads/2026/05/UNA.png",
+    "sector": "aviation",
+    "origin": "traced-from-official-png"
+  },
+  {
+    "slug": "valuejet",
+    "title": "ValueJet",
+    "hex": "5E1C4E",
+    "source": "https://commons.wikimedia.org/wiki/File:ValueJet_Approved_logo_png.png",
+    "sector": "aviation",
+    "origin": "traced-from-wikimedia-png"
+  },
+  {
+    "slug": "vercel",
+    "title": "Vercel",
+    "hex": "000000",
+    "source": "https://vercel.com/geist/brands",
+    "guidelines": "https://vercel.com/geist/brands",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "visa",
     "title": "Visa",
     "hex": "1A1F71",
     "source": "https://merchantsignageeu.visa.com/product.asp?dptID=696",
     "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "wemabank",
+    "title": "Wema Bank",
+    "hex": "990D81",
+    "source": "https://www.alat.ng",
+    "sector": "banking",
+    "origin": "official-site"
+  },
+  {
+    "slug": "whatsapp",
+    "title": "WhatsApp",
+    "hex": "25D366",
+    "source": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand",
+    "guidelines": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand",
+    "sector": "social",
     "origin": "simple-icons"
   },
   {
@@ -534,12 +1158,38 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "x",
+    "title": "X",
+    "hex": "000000",
+    "source": "https://x.com",
+    "guidelines": "https://about.x.com/en/who-we-are/brand-toolkit",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "yoco",
     "title": "Yoco",
     "hex": "00A9E0",
     "source": "https://www.yoco.com",
     "sector": "fintech",
     "origin": "official-site"
+  },
+  {
+    "slug": "youtube",
+    "title": "YouTube",
+    "hex": "FF0000",
+    "source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+    "guidelines": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "zenithbank",
+    "title": "Zenith Bank",
+    "hex": "ED1C24",
+    "source": "https://commons.wikimedia.org/wiki/File:Zenith_Bank_Logo.svg",
+    "sector": "banking",
+    "origin": "wikimedia-commons"
   },
   {
     "slug": "zone",
@@ -549,5 +1199,14 @@
     "sector": "fintech",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "zoom",
+    "title": "Zoom",
+    "hex": "0B5CFF",
+    "source": "https://brand.zoom.us/media-library/",
+    "guidelines": "https://brand.zoom.us/usage-legal/",
+    "sector": "tech",
+    "origin": "simple-icons"
   }
 ]

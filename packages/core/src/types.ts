@@ -1,4 +1,4 @@
-export const SECTORS = ["fintech", "telecom", "mobility", "commerce", "talent", "social", "other"] as const;
+export const SECTORS = ["ai", "tech", "fintech", "banking", "telecom", "mobility", "aviation", "commerce", "media", "health", "talent", "social", "other"] as const;
 
 export type Sector = (typeof SECTORS)[number];
 

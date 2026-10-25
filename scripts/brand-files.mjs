@@ -5,7 +5,7 @@ export const rootDir = fileURLToPath(new URL("..", import.meta.url));
 export const iconsDir = `${rootDir}icons`;
 export const brandsFile = `${rootDir}data/brands.json`;
 
-export const SECTORS = ["fintech", "telecom", "mobility", "commerce", "talent", "social", "other"];
+export const SECTORS = ["ai", "tech", "fintech", "banking", "telecom", "mobility", "aviation", "commerce", "media", "health", "talent", "social", "other"];
 
 export async function readJson(path) {
   return JSON.parse(await readFile(path, "utf8"));

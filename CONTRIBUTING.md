@@ -59,7 +59,7 @@ Add an entry to `data/brands.json`:
 | `hex` | Primary brand color: 6 uppercase hex digits, no `#`. Take it from the brand guidelines, or from the logo's fill. |
 | `source` | `https://` URL of where the SVG came from |
 | `guidelines` | Optional. Link to the brand's usage guidelines |
-| `sector` | One of `fintech`, `telecom`, `mobility`, `commerce`, `talent`, `social`, `other` |
+| `sector` | One of `ai`, `tech`, `fintech`, `banking`, `telecom`, `mobility`, `aviation`, `commerce`, `media`, `health`, `talent`, `social`, `other` |
 | `featured` | Optional. `true` for Nigerian startups |
 
 If the brand was listed in `data/wanted.json`, remove it from there.

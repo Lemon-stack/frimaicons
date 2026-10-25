@@ -4,6 +4,8 @@ export const VERSION = reactPackage.version;
 
 export const REPO_URL = "https://github.com/Lemon-stack/frimaicons";
 
+export const REPO_API_URL = "https://api.github.com/repos/Lemon-stack/frimaicons";
+
 export type MakerLinkKind = "github" | "website" | "x" | "linkedin";
 
 export const MAKER = {
