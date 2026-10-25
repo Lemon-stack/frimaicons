@@ -29,6 +29,7 @@ export const metadata: Metadata = {
   authors: [{ name: MAKER.name, url: REPO_URL }],
   creator: MAKER.name,
   category: "technology",
+  verification: { google: "7sIkuZI1XgLzGd5lHKBqDKQPHSVUdTOehzBUwbyMd7w" },
   robots: {
     index: true,
     follow: true,
