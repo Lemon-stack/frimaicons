@@ -19,6 +19,12 @@ Raw data (path, hex, source, sector) ships in the `@frimaicons/core` package:
 import { fiStripe, icons, searchIcons } from "@frimaicons/core";
 ```
 
+Your AI assistant can search logos and write the code through the `@frimaicons/mcp` server:
+
+```bash
+claude mcp add frimaicons -- npx -y @frimaicons/mcp
+```
+
 ## Repo layout
 
 | Path | What |
@@ -28,6 +34,7 @@ import { fiStripe, icons, searchIcons } from "@frimaicons/core";
 | `data/wanted.json` | Brands we still need logos for |
 | `packages/core` | `@frimaicons/core`: icon data, search helpers, types |
 | `packages/react` | `@frimaicons/react`: generated components |
+| `packages/mcp` | `@frimaicons/mcp`: MCP server for AI assistants |
 | `apps/site` | Next.js static site: browse, search, copy, download |
 
 ## Adding a logo

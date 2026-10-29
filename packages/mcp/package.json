@@ -1,0 +1,55 @@
+{
+  "name": "@frimaicons/mcp",
+  "version": "0.3.0",
+  "description": "MCP server for frimaicons: search company logos and get SVG or React code from your AI assistant.",
+  "license": "MIT",
+  "author": "Lemon Confidence",
+  "homepage": "https://github.com/Lemon-stack/frimaicons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemon-stack/frimaicons.git",
+    "directory": "packages/mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/Lemon-stack/frimaicons/issues"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "logos",
+    "brand",
+    "icons",
+    "svg",
+    "nigeria",
+    "africa"
+  ],
+  "type": "module",
+  "bin": {
+    "frimaicons-mcp": "./dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "prepublishOnly": "pnpm build"
+  },
+  "dependencies": {
+    "@frimaicons/core": "workspace:*",
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.0",
+    "tsup": "^9.0.0",
+    "typescript": "^5.9.3",
+    "vitest": "^5.0.5"
+  }
+}
