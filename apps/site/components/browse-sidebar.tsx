@@ -2,6 +2,7 @@ import { HugeiconsIcon } from "@hugeicons/react";
 import { DashboardSquare01Icon } from "@hugeicons/core-free-icons";
 import type { Sector } from "@frimaicons/core";
 import { SECTOR_ICONS, SECTOR_LABELS } from "@/lib/labels";
+import { AgentSetupDialog } from "./agent-setup-dialog";
 import { FilterItem } from "./filter-item";
 import { InstallCommand } from "./install-command";
 import { MadeBy } from "./made-by";
@@ -16,6 +17,7 @@ interface BrowseSidebarProps {
 export function BrowseSidebar({ total, sector, onSectorChange, sectorCounts }: BrowseSidebarProps) {
   return (
     <aside className="order-last flex min-h-0 flex-col gap-3 lg:order-none">
+      <AgentSetupDialog />
       <nav aria-label="Categories" className="hidden min-h-0 flex-1 flex-col rounded-2xl bg-panel p-3 lg:flex">
         <h2 className="px-1.5 pt-1 pb-3 text-[15px] font-medium">Categories</h2>
         <div className="-mx-1 min-h-0 flex-1 space-y-0.5 overflow-y-auto px-1">
