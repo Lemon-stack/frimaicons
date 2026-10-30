@@ -1,6 +1,6 @@
 {
   "name": "@frimaicons/mcp",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "MCP server for frimaicons: search company logos and get SVG or React code from your AI assistant.",
   "license": "MIT",
   "author": "Lemon Confidence",
