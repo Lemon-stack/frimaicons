@@ -16,6 +16,14 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "airbrake",
+    "title": "Airbrake",
+    "hex": "FFA500",
+    "source": "https://github.com/airbrake/slate/blob/c116f2968bcf4dfda126511de0a2d0f0dc8b6a8e/source/images/logo.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "airpeace",
     "title": "Air Peace",
     "hex": "2953A0",
@@ -57,6 +65,24 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "amazoncloudwatch",
+    "title": "Amazon CloudWatch",
+    "hex": "E7157B",
+    "source": "https://d1.awsstatic.com/onedam/marketing-channels/website/public/shared/architecture-icon-release/Icon-package_07312026.5846e92413caa21490223536cc97f1269e44fa92.zip",
+    "guidelines": "https://aws.amazon.com/architecture/icons/",
+    "sector": "tech",
+    "origin": "press-kit"
+  },
+  {
+    "slug": "amplitude",
+    "title": "Amplitude",
+    "hex": "0052F2",
+    "source": "https://framerusercontent.com/images/vqninpQZmsdOKgDIl5C4C1e3Q.svg",
+    "guidelines": "https://brand.amplitude.com/",
+    "sector": "tech",
+    "origin": "press-kit"
+  },
+  {
     "slug": "anchor",
     "title": "Anchor",
     "hex": "23322D",
@@ -84,12 +110,62 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "androidauto",
+    "title": "Android Auto",
+    "hex": "3DDC84",
+    "source": "https://thepartnermarketinghub.withgoogle.com/brands/android-auto",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "androidstudio",
+    "title": "Android Studio",
+    "hex": "3DDC84",
+    "source": "https://developer.android.com/studio",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "angular",
+    "title": "Angular",
+    "hex": "0F0F11",
+    "source": "https://angular.dev/press-kit",
+    "guidelines": "https://angular.dev/press-kit",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "ansible",
+    "title": "Ansible",
+    "hex": "EE0000",
+    "source": "https://www.ansible.com/logos",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "anthropic",
     "title": "Anthropic",
     "hex": "191919",
     "source": "https://www.anthropic.com",
     "sector": "ai",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "apachekafka",
+    "title": "Apache Kafka",
+    "hex": "231F20",
+    "source": "https://apache.org/logos",
+    "guidelines": "https://www.apache.org/foundation/marks",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "appdynamics",
+    "title": "AppDynamics",
+    "hex": "232736",
+    "source": "https://raw.githubusercontent.com/Appdynamics/agent-control-center/HEAD/frontend/public/assets/images/logo/appd-icon.svg",
+    "sector": "tech",
+    "origin": "official-site"
   },
   {
     "slug": "apple",
@@ -100,12 +176,37 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "argo",
+    "title": "Argo",
+    "hex": "EF7B4D",
+    "source": "https://github.com/cncf/artwork/blob/c2e619cdf85e8bac090ceca7c0834c5cfedf9426/projects/argo/icon/black/argo-icon-black.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "arikair",
     "title": "Arik Air",
     "hex": "0D3F84",
     "source": "https://en.wikipedia.org/wiki/File:Arik_Air_logo.svg",
     "sector": "aviation",
     "origin": "wikipedia"
+  },
+  {
+    "slug": "axiom",
+    "title": "Axiom",
+    "hex": "000000",
+    "source": "https://axiom.co/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "azuremonitor",
+    "title": "Azure Monitor",
+    "hex": "0078D4",
+    "source": "https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V24.zip",
+    "guidelines": "https://learn.microsoft.com/en-us/azure/architecture/icons/",
+    "sector": "tech",
+    "origin": "press-kit"
   },
   {
     "slug": "bachs",
@@ -135,12 +236,28 @@
     "featured": true
   },
   {
+    "slug": "betterstack",
+    "title": "Better Stack",
+    "hex": "000000",
+    "source": "https://betterstack.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "binance",
     "title": "Binance",
     "hex": "F0B90B",
     "source": "https://binance.com",
     "sector": "fintech",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "bolt",
+    "title": "Bolt",
+    "hex": "34D186",
+    "source": "https://assets.homepage.bolt.eu/1.24.18/public/common-assets/icon.svg",
+    "sector": "mobility",
+    "origin": "official-site"
   },
   {
     "slug": "brass",
@@ -157,6 +274,14 @@
     "hex": "B22B40",
     "source": "https://www.buafoodsplc.com/wp-content/uploads/2021/12/BUA-Foods-Logo.svg",
     "sector": "other",
+    "origin": "official-site"
+  },
+  {
+    "slug": "bugsnag",
+    "title": "Bugsnag",
+    "hex": "84A7FF",
+    "source": "https://www.bugsnag.com/",
+    "sector": "tech",
     "origin": "official-site"
   },
   {
@@ -196,6 +321,14 @@
     "origin": "official-site"
   },
   {
+    "slug": "checkly",
+    "title": "Checkly",
+    "hex": "0075FF",
+    "source": "https://www.checklyhq.com/safari-pinned-tab.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "chippercash",
     "title": "Chipper Cash",
     "hex": "6945D8",
@@ -211,6 +344,30 @@
     "sector": "commerce",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "chromewebstore",
+    "title": "Chrome Web Store",
+    "hex": "4285F4",
+    "source": "https://chromewebstore.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "chronosphere",
+    "title": "Chronosphere",
+    "hex": "35B558",
+    "source": "https://mintcdn.com/chronosphere-74b1ef6e/4vC2sooFHwgMPwBc/favicon.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "circleci",
+    "title": "CircleCI",
+    "hex": "343434",
+    "source": "https://circleci.com/press",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "claude",
@@ -238,6 +395,14 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "coralogix",
+    "title": "Coralogix",
+    "hex": "13E989",
+    "source": "https://coralogix.com/wp-content/uploads/2025/12/Coralogix_Logo_25.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "cowrywise",
     "title": "Cowrywise",
     "hex": "0067F5",
@@ -248,11 +413,36 @@
     "featured": true
   },
   {
+    "slug": "cronitor",
+    "title": "Cronitor",
+    "hex": "0B0021",
+    "source": "https://raw.githubusercontent.com/cronitorio/agent-skills/HEAD/plugins/cronitor/assets/icon.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "cursor",
     "title": "Cursor",
     "hex": "000000",
     "source": "https://cursor.com/brand",
     "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "dart",
+    "title": "Dart",
+    "hex": "0175C2",
+    "source": "https://github.com/dart-lang/site-shared/tree/18458ff440afd3d06f04e5cb871c4c5eda29c9d5/src/_assets/image/dart/logo",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "datadog",
+    "title": "Datadog",
+    "hex": "632CA6",
+    "source": "https://www.datadoghq.com/about/resources",
+    "guidelines": "https://www.datadoghq.com/about/resources/",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -273,6 +463,14 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "docker",
+    "title": "Docker",
+    "hex": "2496ED",
+    "source": "https://www.docker.com/company/newsroom/media-resources",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "dropbox",
     "title": "Dropbox",
     "hex": "0061FF",
@@ -290,12 +488,28 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "dynatrace",
+    "title": "Dynatrace",
+    "hex": "1496FF",
+    "source": "https://www.dynatrace.com/company/press-kit/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "ecobank",
     "title": "Ecobank",
     "hex": "00597D",
     "source": "https://www.ecobank.com/img/eco/eco-logo-svg.svg",
     "sector": "banking",
     "origin": "official-site"
+  },
+  {
+    "slug": "elastic",
+    "title": "Elastic",
+    "hex": "005571",
+    "source": "https://www.elastic.co/brand",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "fairmoney",
@@ -340,12 +554,54 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "firebase",
+    "title": "Firebase",
+    "hex": "DD2C00",
+    "source": "https://firebase.google.com/brand-guidelines",
+    "guidelines": "https://firebase.google.com/brand-guidelines",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "firehydrant",
+    "title": "FireHydrant",
+    "hex": "FF5300",
+    "source": "https://firehydrant.com/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "firstbank",
     "title": "FirstBank",
     "hex": "003B65",
     "source": "https://firstbankgroup.com/ng/wp-content/uploads/2020/01/First-Bank.svg",
     "sector": "banking",
     "origin": "official-site"
+  },
+  {
+    "slug": "fitbit",
+    "title": "Fitbit",
+    "hex": "00B0B9",
+    "source": "https://www.fitbit.com/uk/home",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "fluentd",
+    "title": "Fluentd",
+    "hex": "0E83C8",
+    "source": "https://docs.fluentd.org/quickstart/logo",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "flutter",
+    "title": "Flutter",
+    "hex": "02569B",
+    "source": "https://flutter.dev/brand",
+    "guidelines": "https://flutter.dev/brand",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "flutterwave",
@@ -358,11 +614,28 @@
     "featured": true
   },
   {
+    "slug": "fullstory",
+    "title": "Fullstory",
+    "hex": "000000",
+    "source": "https://www.fullstory.com/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "gcash",
     "title": "GCash",
     "hex": "007CFF",
     "source": "https://gcash.com",
     "sector": "fintech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "gemma",
+    "title": "Gemma",
+    "hex": "3186FF",
+    "source": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__gemma__large.svg",
+    "guidelines": "https://ai.google.dev/gemma/terms",
+    "sector": "ai",
     "origin": "official-site"
   },
   {
@@ -380,6 +653,40 @@
     "hex": "000000",
     "source": "https://primer.style/foundations/icons/copilot-24",
     "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "gitlab",
+    "title": "GitLab",
+    "hex": "FC6D26",
+    "source": "https://about.gitlab.com/press/press-kit/",
+    "guidelines": "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/trademark-guidelines/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "glovo",
+    "title": "Glovo",
+    "hex": "F2CC38",
+    "source": "https://about.glovoapp.com/press",
+    "sector": "commerce",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "gmail",
+    "title": "Gmail",
+    "hex": "EA4335",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/192px.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "go",
+    "title": "Go",
+    "hex": "00ADD8",
+    "source": "https://blog.golang.org/go-brand",
+    "guidelines": "https://blog.golang.org/go-brand",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -401,6 +708,299 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "googleadmob",
+    "title": "Google AdMob",
+    "hex": "EA4335",
+    "source": "https://commons.wikimedia.org/wiki/File:Google_AdMob_logo.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleads",
+    "title": "Google Ads",
+    "hex": "4285F4",
+    "source": "https://ads.google.com/home/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleadsense",
+    "title": "Google AdSense",
+    "hex": "4285F4",
+    "source": "https://www.google.com/adsense/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleaistudio",
+    "title": "Google AI Studio",
+    "hex": "4285F4",
+    "source": "https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "ai",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googleanalytics",
+    "title": "Google Analytics",
+    "hex": "E37400",
+    "source": "https://marketingplatform.google.com/intl/en_uk/about/analytics/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleappsscript",
+    "title": "Google Apps Script",
+    "hex": "4285F4",
+    "source": "https://github.com/simple-icons/simple-icons/issues/3556#issuecomment-800482267",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleassistant",
+    "title": "Google Assistant",
+    "hex": "4285F4",
+    "source": "https://assistant.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleauthenticator",
+    "title": "Google Authenticator",
+    "hex": "4285F4",
+    "source": "https://commons.wikimedia.org/wiki/File:Google_Authenticator_(April_2023).svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlebigquery",
+    "title": "Google BigQuery",
+    "hex": "669DF6",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlebigtable",
+    "title": "Google Bigtable",
+    "hex": "669DF6",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecalendar",
+    "title": "Google Calendar",
+    "hex": "4285F4",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v8/192px.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecampaignmanager360",
+    "title": "Google Campaign Manager 360",
+    "hex": "1E8E3E",
+    "source": "https://developers.google.com/doubleclick-advertisers",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecardboard",
+    "title": "Google Cardboard",
+    "hex": "FF7143",
+    "source": "https://arvr.google.com/cardboard/images/header/vr-home.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecast",
+    "title": "Google Cast",
+    "hex": "4285F4",
+    "source": "https://partnermarketinghub.withgoogle.com/brands/google-cast/visual-identity/visual-identity",
+    "guidelines": "https://partnermarketinghub.withgoogle.com/brands/google-cast",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlechat",
+    "title": "Google Chat",
+    "hex": "34A853",
+    "source": "https://support.google.com/chat/answer/9455386",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlechrome",
+    "title": "Google Chrome",
+    "hex": "4285F4",
+    "source": "https://www.google.com/chrome",
+    "guidelines": "https://partnermarketinghub.withgoogle.com/brands/chrome",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlechronicle",
+    "title": "Google Chronicle",
+    "hex": "4285F4",
+    "source": "https://chronicle.security",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleclassroom",
+    "title": "Google Classroom",
+    "hex": "0F9D58",
+    "source": "https://classroom.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecloud",
+    "title": "Google Cloud",
+    "hex": "4285F4",
+    "source": "https://cloud.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecloudcomposer",
+    "title": "Google Cloud Composer",
+    "hex": "4285F4",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecloudspanner",
+    "title": "Google Cloud Spanner",
+    "hex": "4285F4",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecloudstorage",
+    "title": "Google Cloud Storage",
+    "hex": "AECBFA",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecolab",
+    "title": "Google Colab",
+    "hex": "F9AB00",
+    "source": "https://colab.research.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlecontacts",
+    "title": "Google Contacts",
+    "hex": "1A73E8",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/contacts/v9/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googlecontaineroptimizedos",
+    "title": "Google Container Optimized OS",
+    "hex": "4285F4",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://cloud.google.com/terms/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googledataflow",
+    "title": "Google Dataflow",
+    "hex": "AECBFA",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googledataproc",
+    "title": "Google Dataproc",
+    "hex": "AECBFA",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googledisplayandvideo360",
+    "title": "Google Display & Video 360",
+    "hex": "34A853",
+    "source": "https://marketingplatform.google.com/about",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googledocs",
+    "title": "Google Docs",
+    "hex": "4285F4",
+    "source": "https://www.google.com/docs/about",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googledrive",
+    "title": "Google Drive",
+    "hex": "4285F4",
+    "source": "https://developers.google.com/drive/web/branding",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleearth",
+    "title": "Google Earth",
+    "hex": "4285F4",
+    "source": "https://earth.google.com/web/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleearthengine",
+    "title": "Google Earth Engine",
+    "hex": "4285F4",
+    "source": "https://github.com/simple-icons/simple-icons/issues/8912#issuecomment-1638850020",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlefinance",
+    "title": "Google Finance",
+    "hex": "188038",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/finance/v6/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googlefonts",
+    "title": "Google Fonts",
+    "hex": "4285F4",
+    "source": "https://fonts.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleforms",
+    "title": "Google Forms",
+    "hex": "7248B9",
+    "source": "https://about.google/products/#all-products",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "googlegemini",
     "title": "Google Gemini",
     "hex": "8E75B2",
@@ -409,11 +1009,298 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "googlegroups",
+    "title": "Google Groups",
+    "hex": "4285F4",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/groups/v9/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googlehome",
+    "title": "Google Home",
+    "hex": "4285F4",
+    "source": "https://home.google.com/welcome/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlejules",
+    "title": "Google Jules",
+    "hex": "715CD7",
+    "source": "https://jules.google",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlekeep",
+    "title": "Google Keep",
+    "hex": "FFBB00",
+    "source": "https://about.google/brand-resource-center/logos-list/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlelens",
+    "title": "Google Lens",
+    "hex": "4285F4",
+    "source": "https://www.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlemaps",
+    "title": "Google Maps",
+    "hex": "4285F4",
+    "source": "https://commons.wikimedia.org/wiki/File:Google_Maps_icon.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlemarketingplatform",
+    "title": "Google Marketing Platform",
+    "hex": "4285F4",
+    "source": "https://about.google/brand-resource-center/logos-list/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlemeet",
+    "title": "Google Meet",
+    "hex": "00897B",
+    "source": "https://about.google/brand-resource-center/logos-list/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlemessages",
+    "title": "Google Messages",
+    "hex": "1A73E8",
+    "source": "https://messages.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlenearby",
+    "title": "Google Nearby",
+    "hex": "4285F4",
+    "source": "https://developers.google.com/nearby/developer-guidelines",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlenews",
+    "title": "Google News",
+    "hex": "174EA6",
+    "source": "https://partnermarketinghub.withgoogle.com/brands/google-news/",
+    "guidelines": "https://partnermarketinghub.withgoogle.com/brands/google-news/legal-and-trademarks/legal-requirements/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleone",
+    "title": "Google One",
+    "hex": "4285F4",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/one/v6/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googlepay",
+    "title": "Google Pay",
+    "hex": "4285F4",
+    "source": "https://pay.google.com/intl/en_us/about/",
+    "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlephotos",
+    "title": "Google Photos",
+    "hex": "4285F4",
+    "source": "https://partnermarketinghub.withgoogle.com/brands/google-photos/visual-identity/visual-identity/icon/",
+    "guidelines": "https://partnermarketinghub.withgoogle.com/brands/google-photos/visual-identity/visual-identity/icon/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleplay",
+    "title": "Google Play",
+    "hex": "414141",
+    "source": "https://partnermarketinghub.withgoogle.com/brands/google-play/visual-identity/primary-logos/",
+    "guidelines": "https://partnermarketinghub.withgoogle.com/brands/google-play/visual-identity/primary-logos/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlepubsub",
+    "title": "Google Pub/Sub",
+    "hex": "AECBFA",
+    "source": "https://cloud.google.com/icons",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlescholar",
+    "title": "Google Scholar",
+    "hex": "4285F4",
+    "source": "https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlesearchconsole",
+    "title": "Google Search Console",
+    "hex": "458CF5",
+    "source": "https://search.google.com/search-console",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlesheets",
+    "title": "Google Sheets",
+    "hex": "34A853",
+    "source": "https://sheets.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googleshopping",
+    "title": "Google Shopping",
+    "hex": "4285F4",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/shopping/v5/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googlesites",
+    "title": "Google Sites",
+    "hex": "579FFF",
+    "source": "https://www.gstatic.com/images/branding/productlogos/sites_2026/v2/web/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googleslides",
+    "title": "Google Slides",
+    "hex": "FBBC04",
+    "source": "https://slides.google.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlestreetview",
+    "title": "Google Street View",
+    "hex": "FEC111",
+    "source": "https://developers.google.com/streetview/ready/branding",
+    "guidelines": "https://developers.google.com/streetview/ready/branding",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlesummerofcode",
+    "title": "Google Summer of Code",
+    "hex": "F9AB00",
+    "source": "https://summerofcode.withgoogle.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googletagmanager",
+    "title": "Google Tag Manager",
+    "hex": "246FDB",
+    "source": "https://tagmanager.google.com/#/home",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googletasks",
+    "title": "Google Tasks",
+    "hex": "2684FC",
+    "source": "https://assistant.google.com/tasks",
+    "guidelines": "https://about.google/brand-resource-center",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googletranslate",
+    "title": "Google Translate",
+    "hex": "4285F4",
+    "source": "https://commons.wikimedia.org/wiki/File:Google_Translate_logo.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googletrends",
+    "title": "Google Trends",
+    "hex": "4285F4",
+    "source": "https://fonts.gstatic.com/s/i/productlogos/trends/v7/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googletv",
+    "title": "Google TV",
+    "hex": "4285F4",
+    "source": "https://partnermarketinghub.withgoogle.com/brands/google-tv/visual-identity/visual-identity/",
+    "guidelines": "https://partnermarketinghub.withgoogle.com/brands/google-tv/visual-identity/visual-identity/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "googlevoice",
+    "title": "Google Voice",
+    "hex": "00AF57",
+    "source": "https://www.gstatic.com/images/branding/productlogos/voice_2026/v2/web/192px.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "googlewallet",
+    "title": "Google Wallet",
+    "hex": "3186FF",
+    "source": "https://www.gstatic.com/marketing-cms/assets/images/1c/83/2e19c3f2412c83e9297a50cbf5e1/header-logo.svg",
+    "guidelines": "https://about.google/brand-resource-center/",
+    "sector": "fintech",
+    "origin": "official-site"
+  },
+  {
     "slug": "grab",
     "title": "Grab",
     "hex": "00B14F",
     "source": "https://en.wikipedia.org/wiki/File:Grab_(application)_logo.svg",
     "sector": "mobility",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "grafana",
+    "title": "Grafana",
+    "hex": "F46800",
+    "source": "https://grafana.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "grafanaoncall",
+    "title": "Grafana OnCall",
+    "hex": "F05A28",
+    "source": "https://raw.githubusercontent.com/grafana-cold-storage/oncall/dev/grafana-plugin/src/assets/img/logo.svg",
+    "guidelines": "https://grafana.com/trademark-policy/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "graylog",
+    "title": "Graylog",
+    "hex": "FF3633",
+    "source": "https://www.graylog.org",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -443,6 +1330,23 @@
     "origin": "wikimedia-commons"
   },
   {
+    "slug": "hashicorp",
+    "title": "HashiCorp",
+    "hex": "000000",
+    "source": "https://www.hashicorp.com",
+    "guidelines": "https://www.hashicorp.com/brand",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "healthchecks",
+    "title": "Healthchecks.io",
+    "hex": "22BC66",
+    "source": "https://healthchecks.io/static/img/favicon.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "heliumhealth",
     "title": "Helium Health",
     "hex": "FF4A52",
@@ -450,6 +1354,30 @@
     "sector": "health",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "helm",
+    "title": "Helm",
+    "hex": "0F1689",
+    "source": "https://helm.sh",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "highlight",
+    "title": "Highlight",
+    "hex": "744ED4",
+    "source": "https://raw.githubusercontent.com/highlight/highlight/main/highlight.io/public/images/highlight-logo-small.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "honeycomb",
+    "title": "Honeycomb",
+    "hex": "FFB000",
+    "source": "https://www.honeycomb.io/",
+    "sector": "tech",
+    "origin": "official-site"
   },
   {
     "slug": "huggingface",
@@ -461,6 +1389,14 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "hyperping",
+    "title": "Hyperping",
+    "hex": "9B87E8",
+    "source": "https://hyperping.com/assets/hyperping/favicon.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "ibomair",
     "title": "Ibom Air",
     "hex": "005337",
@@ -469,12 +1405,46 @@
     "origin": "traced-from-official-png"
   },
   {
+    "slug": "incidentio",
+    "title": "incident.io",
+    "hex": "F25533",
+    "source": "https://incident.io/brand/resources/icon-alarmalade.svg",
+    "guidelines": "https://incident.io/downloads/incidentio-brand-guidelines.pdf",
+    "sector": "tech",
+    "origin": "press-kit"
+  },
+  {
+    "slug": "influxdb",
+    "title": "InfluxDB",
+    "hex": "22ADF6",
+    "source": "https://influxdata.github.io/branding/logo/downloads/",
+    "guidelines": "https://influxdata.github.io/branding/logo/usage/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "instagram",
     "title": "Instagram",
     "hex": "FF0069",
     "source": "https://about.meta.com/brand/resources/instagram",
     "guidelines": "https://about.meta.com/brand/resources/instagram",
     "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "instana",
+    "title": "IBM Instana",
+    "hex": "01B3B2",
+    "source": "https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/instana.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "instatus",
+    "title": "Instatus",
+    "hex": "4EE3C2",
+    "source": "https://www.instatus.com",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -487,12 +1457,30 @@
     "featured": true
   },
   {
+    "slug": "jaeger",
+    "title": "Jaeger",
+    "hex": "66CFE3",
+    "source": "https://github.com/cncf/artwork/blob/e7e09686c20db6ddac06e482cf3338b0c8b2e22d/projects/jaeger/icon/black/jaeger-icon-black.svg",
+    "guidelines": "https://github.com/cncf/artwork/blob/e7e09686c20db6ddac06e482cf3338b0c8b2e22d/projects/jaeger/jaeger-logo-guide.pdf",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "jaizbank",
     "title": "Jaiz Bank",
     "hex": "FFBF00",
     "source": "https://www.jaizbankplc.com",
     "sector": "banking",
     "origin": "official-site"
+  },
+  {
+    "slug": "jenkins",
+    "title": "Jenkins",
+    "hex": "D24939",
+    "source": "https://get.jenkins.io/art/",
+    "guidelines": "https://www.jenkins.io/press/",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "jiji",
@@ -513,12 +1501,29 @@
     "featured": true
   },
   {
+    "slug": "kaggle",
+    "title": "Kaggle",
+    "hex": "20BEFF",
+    "source": "https://www.kaggle.com/brand-guidelines",
+    "guidelines": "https://www.kaggle.com/brand-guidelines",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "keystonebank",
     "title": "Keystone Bank",
     "hex": "5CBACC",
     "source": "https://commons.wikimedia.org/wiki/File:Keystone_Logo.png",
     "sector": "banking",
     "origin": "traced-from-wikimedia-png"
+  },
+  {
+    "slug": "kibana",
+    "title": "Kibana",
+    "hex": "005571",
+    "source": "https://www.elastic.co/brand",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "klarna",
@@ -536,6 +1541,14 @@
     "sector": "fintech",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "kubernetes",
+    "title": "Kubernetes",
+    "hex": "326CE5",
+    "source": "https://github.com/kubernetes/kubernetes/tree/cac53883f4714452f3084a22e4be20d042a9df33/logo",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "kuda",
@@ -558,10 +1571,59 @@
     "featured": true
   },
   {
+    "slug": "lightstep",
+    "title": "Lightstep",
+    "hex": "039C49",
+    "source": "https://raw.githubusercontent.com/lightstep/lightstep-grafana-plugin/HEAD/src/lightstep-datasource/img/lightstep_logo.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "linear",
     "title": "Linear",
     "hex": "5E6AD2",
     "source": "https://linear.app",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "lit",
+    "title": "Lit",
+    "hex": "324FFF",
+    "source": "https://github.com/lit/lit.dev/blob/5e59bdb00b7a261d6fdcd6a4ae529e17f6146ed3/packages/lit-dev-content/site/images/flame-favicon.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "loggly",
+    "title": "Loggly",
+    "hex": "FF6200",
+    "source": "https://www.loggly.com/wp-content/uploads/2023/07/SW_Logo_Flame_Web_White.svg",
+    "guidelines": "https://www.solarwinds.com/legal/trademarks",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "logrocket",
+    "title": "LogRocket",
+    "hex": "764ABC",
+    "source": "https://logrocket.com/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "logzio",
+    "title": "Logz.io",
+    "hex": "112031",
+    "source": "https://logz.io/",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "looker",
+    "title": "Looker",
+    "hex": "4285F4",
+    "source": "https://looker.com",
     "sector": "tech",
     "origin": "simple-icons"
   },
@@ -572,6 +1634,14 @@
     "source": "https://www.mastercard.com/brandcenter/us/en/download-artwork.html",
     "guidelines": "https://www.mastercard.com/brandcenter/us/en/brand-requirements/mastercard.html",
     "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "materialdesign",
+    "title": "Material Design",
+    "hex": "6750A4",
+    "source": "https://m3.material.io",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -609,11 +1679,28 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "mezmo",
+    "title": "Mezmo",
+    "hex": "E9FF92",
+    "source": "https://www.mezmo.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "mistralai",
     "title": "Mistral AI",
     "hex": "FA520F",
     "source": "https://chat.mistral.ai",
     "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "mixpanel",
+    "title": "Mixpanel",
+    "hex": "7856FF",
+    "source": "https://mixpanel.com",
+    "guidelines": "https://brand.mixpanel.com",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -652,6 +1739,14 @@
     "origin": "official-site"
   },
   {
+    "slug": "nagios",
+    "title": "Nagios",
+    "hex": "4D89F9",
+    "source": "https://www.nagios.org/wp-content/uploads/2023/01/Nagios-Blue-N.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "nectarfi",
     "title": "NectarFi",
     "hex": "D08C1D",
@@ -659,6 +1754,14 @@
     "sector": "fintech",
     "origin": "traced-from-official-png",
     "featured": true
+  },
+  {
+    "slug": "netdata",
+    "title": "Netdata",
+    "hex": "00AB44",
+    "source": "https://www.netdata.cloud",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "netflix",
@@ -670,6 +1773,15 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "newrelic",
+    "title": "New Relic",
+    "hex": "1CE783",
+    "source": "https://newrelic.com/about/media-assets",
+    "guidelines": "https://newrelic.com/about/media-assets#guidelines",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "nomba",
     "title": "Nomba",
     "hex": "FFCC00",
@@ -677,6 +1789,14 @@
     "sector": "fintech",
     "origin": "traced-from-official-png",
     "featured": true
+  },
+  {
+    "slug": "notebooklm",
+    "title": "NotebookLM",
+    "hex": "000000",
+    "source": "https://notebooklm.google",
+    "sector": "ai",
+    "origin": "simple-icons"
   },
   {
     "slug": "notion",
@@ -737,6 +1857,23 @@
     "origin": "official-site"
   },
   {
+    "slug": "opentelemetry",
+    "title": "OpenTelemetry",
+    "hex": "000000",
+    "source": "https://cncf-branding.netlify.app/projects/opentelemetry/",
+    "guidelines": "https://cncf-branding.netlify.app/projects/opentelemetry/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "opsgenie",
+    "title": "Opsgenie",
+    "hex": "172B4D",
+    "source": "https://www.atlassian.com/company/news/press-kit",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "orange",
     "title": "Orange",
     "hex": "FF7900",
@@ -754,6 +1891,15 @@
     "origin": "traced-from-official-png"
   },
   {
+    "slug": "pagerduty",
+    "title": "PagerDuty",
+    "hex": "06AC38",
+    "source": "https://www.pagerduty.com/brand/",
+    "guidelines": "https://www.pagerduty.com/brand/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "palmpay",
     "title": "PalmPay",
     "hex": "8F00FF",
@@ -761,6 +1907,15 @@
     "sector": "fintech",
     "origin": "traced-from-official-png",
     "featured": true
+  },
+  {
+    "slug": "papertrail",
+    "title": "Papertrail",
+    "hex": "FF6200",
+    "source": "https://www.papertrail.com/wp-content/uploads/2026/05/SW_Logo_Web_White.svg",
+    "guidelines": "https://www.solarwinds.com/legal/trademarks",
+    "sector": "tech",
+    "origin": "official-site"
   },
   {
     "slug": "paypal",
@@ -807,6 +1962,15 @@
     "featured": true
   },
   {
+    "slug": "pingdom",
+    "title": "Pingdom",
+    "hex": "FFF000",
+    "source": "https://www.pingdom.com/resources/brand-assets/",
+    "guidelines": "https://www.pingdom.com/resources/brand-assets/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "pinterest",
     "title": "Pinterest",
     "hex": "BD081C",
@@ -842,6 +2006,39 @@
     "origin": "official-site"
   },
   {
+    "slug": "polymerproject",
+    "title": "Polymer Project",
+    "hex": "FF4470",
+    "source": "https://github.com/Polymer/polymer-project.org/blob/3d3e967446858b49a7796676714865ac9b2a5275/app/images/logos/p-logo.svg",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "pornhub",
+    "title": "Pornhub",
+    "hex": "FF9000",
+    "source": "https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg",
+    "sector": "media",
+    "origin": "official-site"
+  },
+  {
+    "slug": "posthog",
+    "title": "PostHog",
+    "hex": "000000",
+    "source": "https://posthog.com/handbook/company/brand-assets",
+    "guidelines": "https://posthog.com/handbook/company/brand-assets",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "prometheus",
+    "title": "Prometheus",
+    "hex": "E6522C",
+    "source": "https://prometheus.io",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "pxxl",
     "title": "Pxxl",
     "hex": "FF63F9",
@@ -867,6 +2064,14 @@
     "sector": "fintech",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "raygun",
+    "title": "Raygun",
+    "hex": "E5242A",
+    "source": "https://raygun.com/",
+    "sector": "tech",
+    "origin": "official-site"
   },
   {
     "slug": "razorpay",
@@ -896,6 +2101,15 @@
     "featured": true
   },
   {
+    "slug": "renaissancelabs",
+    "title": "Renaissance Innovation Labs",
+    "hex": "000000",
+    "source": "https://renaissancelabs.org/logo/blackLogo.svg",
+    "sector": "tech",
+    "origin": "traced-from-official-png",
+    "featured": true
+  },
+  {
     "slug": "revolut",
     "title": "Revolut",
     "hex": "191C1F",
@@ -921,6 +2135,23 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "rollbar",
+    "title": "Rollbar",
+    "hex": "3569F3",
+    "source": "https://rollbar.com/about",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "rootly",
+    "title": "Rootly",
+    "hex": "8D6FDE",
+    "source": "https://rootly.com/brand/rootly-logo-glyph-black.svg",
+    "guidelines": "https://rootly.com/brand",
+    "sector": "tech",
+    "origin": "press-kit"
+  },
+  {
     "slug": "salaryindex",
     "title": "Salary Index",
     "hex": "2E6417",
@@ -939,6 +2170,23 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "segment",
+    "title": "Segment",
+    "hex": "52BD94",
+    "source": "https://cdn.jsdelivr.net/npm/@twilio-paste/icons@13.1.0/esm/ProductSegmentIcon.js",
+    "guidelines": "https://www.twilio.com/en-us/legal/logo-use",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "sentry",
+    "title": "Sentry",
+    "hex": "362D59",
+    "source": "https://sentry.io/branding/",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "shopify",
     "title": "Shopify",
     "hex": "7AB55C",
@@ -946,6 +2194,14 @@
     "guidelines": "https://www.shopify.com/brand-assets",
     "sector": "commerce",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "signoz",
+    "title": "SigNoz",
+    "hex": "F15931",
+    "source": "https://raw.githubusercontent.com/SigNoz/signoz/main/frontend/src/assets/signoz.svg",
+    "sector": "tech",
+    "origin": "official-site"
   },
   {
     "slug": "snapchat",
@@ -965,6 +2221,22 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "splunk",
+    "title": "Splunk",
+    "hex": "000000",
+    "source": "https://www.splunk.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "splunkoncall",
+    "title": "Splunk On-Call",
+    "hex": "000000",
+    "source": "https://d33wubrfki0l68.cloudfront.net/d8254db231b22ee8c55372561afc94d327fafee1/e2776/assets/img/vo-logo-white.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "spotify",
     "title": "Spotify",
     "hex": "1ED760",
@@ -974,12 +2246,44 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "squadcast",
+    "title": "Squadcast",
+    "hex": "4EC4CD",
+    "source": "https://cdn.prod.website-files.com/5c51758c58939b30a6fd3d73/659bdbb933001f794b0e3596_Squadcast_Logo.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "stadia",
+    "title": "Stadia",
+    "hex": "CD2640",
+    "source": "https://stadia.google.com/home",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "stanbicibtc",
     "title": "Stanbic IBTC",
     "hex": "0033A1",
     "source": "https://www.stanbicibtcbank.com",
     "sector": "banking",
     "origin": "official-site"
+  },
+  {
+    "slug": "statuscake",
+    "title": "StatusCake",
+    "hex": "FF3180",
+    "source": "https://static.statuscake.com/img/logos/bolt.svg",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
+    "slug": "statuspage",
+    "title": "Statuspage",
+    "hex": "172B4D",
+    "source": "https://www.atlassian.com/company/news/press-kit",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "sterlingbank",
@@ -995,6 +2299,15 @@
     "hex": "635BFF",
     "source": "https://stripe.com/newsroom/information",
     "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "sumologic",
+    "title": "Sumo Logic",
+    "hex": "000099",
+    "source": "https://sites.google.com/sumologic.com/sumo-logic-brand/home",
+    "guidelines": "https://sites.google.com/sumologic.com/sumo-logic-brand/home",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -1014,6 +2327,14 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "tensorflow",
+    "title": "TensorFlow",
+    "hex": "FF6F00",
+    "source": "https://www.tensorflow.org",
+    "sector": "ai",
+    "origin": "simple-icons"
+  },
+  {
     "slug": "termii",
     "title": "Termii",
     "hex": "34A873",
@@ -1021,6 +2342,15 @@
     "sector": "other",
     "origin": "official-site",
     "featured": true
+  },
+  {
+    "slug": "terraform",
+    "title": "Terraform",
+    "hex": "844FBA",
+    "source": "https://www.hashicorp.com/brand",
+    "guidelines": "https://www.hashicorp.com/brand",
+    "sector": "tech",
+    "origin": "simple-icons"
   },
   {
     "slug": "terraindustries",
@@ -1107,6 +2437,14 @@
     "origin": "traced-from-official-png"
   },
   {
+    "slug": "uptimerobot",
+    "title": "UptimeRobot",
+    "hex": "3BD771",
+    "source": "https://uptimerobot.com",
+    "sector": "tech",
+    "origin": "official-site"
+  },
+  {
     "slug": "valuejet",
     "title": "ValueJet",
     "hex": "5E1C4E",
@@ -1124,11 +2462,35 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "vertexai",
+    "title": "Vertex AI",
+    "hex": "4285F4",
+    "source": "https://www.gstatic.com/cloud/images/navigation/vertex-ai.svg",
+    "sector": "ai",
+    "origin": "official-site"
+  },
+  {
     "slug": "visa",
     "title": "Visa",
     "hex": "1A1F71",
     "source": "https://merchantsignageeu.visa.com/product.asp?dptID=696",
     "sector": "fintech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "waze",
+    "title": "Waze",
+    "hex": "33CCFF",
+    "source": "https://www.waze.com",
+    "sector": "tech",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "wearos",
+    "title": "Wear OS",
+    "hex": "4285F4",
+    "source": "https://partnermarketinghub.withgoogle.com/#/brands/",
+    "sector": "tech",
     "origin": "simple-icons"
   },
   {
@@ -1167,6 +2529,15 @@
     "origin": "simple-icons"
   },
   {
+    "slug": "xmatters",
+    "title": "xMatters",
+    "hex": "0293B9",
+    "source": "https://s48686.pcdn.co/wp-content/uploads/2024/11/7beba908-eve_xmatters_logomark_black_p1r1.svg",
+    "guidelines": "https://www.xmatters.com/brand",
+    "sector": "tech",
+    "origin": "press-kit"
+  },
+  {
     "slug": "yoco",
     "title": "Yoco",
     "hex": "00A9E0",
@@ -1182,6 +2553,71 @@
     "guidelines": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
     "sector": "social",
     "origin": "simple-icons"
+  },
+  {
+    "slug": "youtubegaming",
+    "title": "YouTube Gaming",
+    "hex": "FF0000",
+    "source": "https://gaming.youtube.com",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "youtubekids",
+    "title": "YouTube Kids",
+    "hex": "FF0000",
+    "source": "https://www.youtube.com/intl/ALL_us/kids",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "youtubemusic",
+    "title": "YouTube Music",
+    "hex": "FF0000",
+    "source": "https://partnermarketinghub.withgoogle.com/#/brands",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "youtubeshorts",
+    "title": "YouTube Shorts",
+    "hex": "FF0000",
+    "source": "https://www.youtube.com/shorts",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "youtubestudio",
+    "title": "YouTube Studio",
+    "hex": "FF0000",
+    "source": "https://www.youtube.com",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "youtubetv",
+    "title": "YouTube TV",
+    "hex": "FF0000",
+    "source": "https://partnermarketinghub.withgoogle.com/#/brands",
+    "sector": "social",
+    "origin": "simple-icons"
+  },
+  {
+    "slug": "zabbix",
+    "title": "Zabbix",
+    "hex": "D40000",
+    "source": "https://assets.zabbix.com/files/logo/Zabbix_logo_2025.zip",
+    "guidelines": "https://www.zabbix.com/trademark",
+    "sector": "tech",
+    "origin": "press-kit"
+  },
+  {
+    "slug": "zenduty",
+    "title": "Zenduty",
+    "hex": "FD9B00",
+    "source": "https://d8x2313t22dpf.cloudfront.net/landing/zen/v3.12.171.904/static/d87452c1f79087d96f9e80bb68bf030f/ad814/logo_default.png",
+    "sector": "tech",
+    "origin": "traced-from-official-png"
   },
   {
     "slug": "zenithbank",
